@@ -10,5 +10,13 @@ Oficiálna webová stránka ŠKAS FMFI UK
 
 ## Inštalácia ##
 
-1. Spusti `jekyll build` na vygenerovanie statických HTML stránok.
-2. Nasmeruj web server na `_site` adresára.
+1. Stiahni zdrojové súbory:
+
+  ``` bash
+  $ git clone <repository_url>
+  $ git submodule init
+  $ git submodule update && git submodule update
+  ```
+
+2. Spusti `jekyll build` na vygenerovanie statických HTML stránok.
+3. Nasmeruj web server na `_site` adresár.
