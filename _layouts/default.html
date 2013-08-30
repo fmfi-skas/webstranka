@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{% if page.title %}{{ page.title }} | ŠKAS FMFI UK{% else %}{{ site.name }}{% endif %}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/foundation.min.css">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/custom.css">
+
+        <script src="/js/vendor/custom.modernizr.js"></script>
+
+    </head>
+    <body>
+
+        {% include header.html %}
+
+        {{ content }}
+
+        {% include facebook-wall.html %}
+
+        {% include footer.html %}
+
+        <script>
+          document.write('<script src=/' +
+          ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
+          '.js><\/script>')
+        </script>
+        <script src="/js/foundation/foundation.js"></script>
+        <script src="/js/foundation/foundation.dropdown.js"></script>
+        <script src="/js/foundation/foundation.topbar.js"></script>
+        <script>
+             $(document).foundation();
+        </script>
+        <script src="/js/facebook.js"></script>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="large-8 columns counter">
+        <article class="publication">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+        </article>
+    </div>
+    <div class="large-4 columns hide-for-small">
+        <h2>Obsah</h2>
+        {{ content | toc }}
+    </div>
+</div>

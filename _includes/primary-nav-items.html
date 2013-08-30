@@ -1,0 +1,25 @@
+<ul>
+    <li><a href="/">Domov</a></li>
+    <li class="has-dropdown{% if page.url contains '/uchadzac/' %} active{% endif %}"><a href="#">Uchádzač</a>
+        <ul class="dropdown">
+            <li><a href="/uchadzac/preco-matfyz.html">Prečo Matfyz?</a></li>
+            <li><a href="/uchadzac/ako-si-podat-prihlasku.html">Ako si podať prihlášku</a></li>
+            <li><a href="/uchadzac/den-otvorenych-dveri.html">Deň otvorených dverí</a></li>
+        </ul>
+    </li>
+    <li class="has-dropdown{% if page.url contains 'prvak' %} active{% endif %}"><a href="#">Prvák</a>
+        <ul class="dropdown">
+            <li><a href="/sprievodca-pre-prvakov/sprievodca-matfyzaka.html">Sprievodca pre prvákov</a></li>
+            <li><a href="#">Časté otázky</a></li>
+            <li><a href="/prvak/ubytovanie-na-internate.html">Ubytovanie na internáte</a></li>
+        </ul>
+    </li>
+    <li><a href="#">Študent</a></li>
+    <li class="has-dropdown{% if page.url contains '/skas/' %} active{% endif %}"><a href="#">ŠKAS</a>
+        <ul class="dropdown">
+            <li><a href="/skas/">O nás</a></li>
+            <li><a href="/podujatia/">Podujatia</a></li>
+            <li><a href="/skas/volby.html">Voľby</a></li>
+        </ul>
+    </li>
+</ul>

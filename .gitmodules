@@ -1,0 +1,3 @@
+[submodule "sprievodca-pre-prvakov"]
+	path = sprievodca-pre-prvakov
+	url = git@github.com:fmfi-skas/sprievodca-pre-prvakov.git

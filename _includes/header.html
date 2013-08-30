@@ -1,0 +1,26 @@
+<div id="header">
+    <div class="row">
+        <div class="large-5 columns" id="logo">
+            <img src="/assets/images/logo_fmfi.png" alt="logo FMFI UK" width="100" />
+            <h1 class="title">
+                {% if page.url == '/index.html' %}
+                    {{ site.name }}
+                {% else %}
+                    <a href="/">{{ site.name }}</a>
+                {% endif %}
+            </h1>
+        </div>
+        <div class="large-7 columns">
+        
+        <nav role="navigation" class="top-bar">
+            <ul class="title-area">
+                <li class="name"></li>
+            </ul>
+
+            <section class="top-bar-section">
+                {% include primary-nav-items.html %}
+            </section>
+        </nav>
+        </div>
+    </div>
+</div>
