@@ -62,6 +62,8 @@ pre code {
 
 /* header */
 #header {border-bottom: 0.5em solid #FED490; margin-bottom: 1em;}
+.row {position: relative;}
+#icons {position: absolute; right: 0; top: 0; z-index: 1;}
 
 h1.title, h1.title > a:link, h1.title > a:visited {color: #8e191b;}
 h1.title {font-size: 1.6em;}
@@ -272,8 +274,8 @@ section > h1 {
 #footer li.active > a {background-color: inherit;}
 
 nav.bottom-bar ul {
-    text-align: center;
     list-style-type: none;
+    margin: 0;
 }
 nav.bottom-bar ul li {
     display: inline-block;
@@ -285,5 +287,6 @@ nav.bottom-bar ul li:last-child {border-right: none;}
     position: absolute;
     top: 1em;
     right: 1em;
+    z-index: 1;
 }
-#footer .back-to-top {top: 0; right: 0;}
+#footer .back-to-top {right: 0;}
