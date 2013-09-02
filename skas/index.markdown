@@ -1,12 +1,12 @@
 ---
 layout: page
-title: ŠKAS
+title: O nás
 ---
 
-## Čo je ŠKAS
+## Čo je ŠKAS?
 ŠKAS je skratka pre Študentskú komoru Akademického senátu FMFI UK. 
 
-## Kto je ŠKAS
+## Kto je ŠKAS?
 Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať na zlepšení celkovej kvality štúdia a študentského života na fakulte.
 
 Členovia ŠKASu sú volení študentmi FMFI a reprezentujú ich v Akademickom senáte FMFI UK. Akademický senát FMFI UK je samosprávny zastupiteľský orgán, ktorý rozhoduje na svojich zasadnutiach o dôležitých otázkach fungovania fakulty.
@@ -17,13 +17,13 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 | Meno a priezvisko | Odbor | Stupeň | Pôsobisko v rámci AS         |
 |-------------------|-------|--------|-----------------------------|
 | Matúš Balogh | Fyzika | 1. | člen hospodárskej komisie a mandátovej komisie |
-| Bc. Zuzana Cocuľová | Fyzika | 1. | podpredsedníčka AS, členka pedagogickej komisie |
+| <del>Bc. Zuzana Cocuľová</del> | Fyzika | 1. | podpredsedníčka AS, členka pedagogickej komisie |
 | Stanislav Griguš  | Matematika | |
 | Mgr. Ján Hreha | Fyzika | 3. | člen hospodárskej komisie a pedagogickej komisie
 | Bc. Mária Kieferová | Fyzika | 1. | |
 | Bc. Jakub Kováč | Informatika | 2. | člen koncepčnej a právnej komisie |
 | Martin Macák | Ekonomická a finančná matematika | 1. | člen hospodárskej komisie |
-| Bc. Gábor Szénási | Matematika; počítačová grafika a geometria | 2. | |
+| <del>Bc. Gábor Szénási</del> | Matematika; počítačová grafika a geometria | 2. | |
 | Bc. Martina Šušuková | Aplikovaná informatika | 2. | |
 | Bc. Michal Švehlík | Ekonomická a finančná matematika | 1. | člen hospodárskej komisie |
 | Mgr. Kristián Valentín | Informatika | 3. | člen predsedníctva AS, člen pedagogickej komisie a koncepčnej a právnej komisie |
