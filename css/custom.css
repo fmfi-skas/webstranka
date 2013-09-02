@@ -10,6 +10,8 @@ h2.subtitle {font-size: 1.1em; font-style: italic; font-weight: normal;}
 
 dl dd {margin-left: 2em;}
 
+a:hover, a:focus {text-decoration: underline;}
+
 table > caption {margin-bottom: 0.5em;}
 table thead th {background-color: #FED490;}
 
@@ -64,6 +66,7 @@ pre code {
 #header {border-bottom: 0.5em solid #FED490; margin-bottom: 1em;}
 .row {position: relative;}
 #icons {position: absolute; right: 0; top: 0; z-index: 1;}
+.top-bar-section ul a:hover {text-decoration: none;}
 
 h1.title, h1.title > a:link, h1.title > a:visited {color: #8e191b;}
 h1.title {font-size: 1.6em;}
