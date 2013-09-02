@@ -1,3 +1,6 @@
 [submodule "sprievodca-pre-prvakov"]
 	path = sprievodca-pre-prvakov
 	url = https://github.com/fmfi-skas/sprievodca-pre-prvakov.git
+[submodule "_plugins/jekyll-rss"]
+	path = _plugins/jekyll-rss
+	url = https://github.com/agelber/jekyll-rss.git
