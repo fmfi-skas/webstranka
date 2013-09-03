@@ -9,6 +9,7 @@ paginate_path: "strana:num"
 
 markdown: kramdown #redcarpet
 pygments: true
+future: false
 
 kramdown:
     toc_levels: 1..3
