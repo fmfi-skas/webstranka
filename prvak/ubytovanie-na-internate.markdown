@@ -13,7 +13,7 @@ Ubytovanie prebieha v troch objektoch – výškový blok (VB), átriové domče
 
 ### Dôležité dokumenty
 
-[Smernica rektora 3/2011](http://www.uniba.sk/fileadmin/user_upload/editors/subweby/ubytovanie/Vp_2011_3_Smernica_rektora_UK_ktora_upravuje_pravidla_rozdelovania_ubytovacej_kapacity___-_pre_web.pdf) je celouniverzitná smernica, ktorá stanovuje pravidlá prideľovania ubytovania študentom UK, teda aj výpočet bodov za študijné výsledky, časovú dostupnosť, sociálne veci a mimoškolskú činnosť.
+[Smernica rektora 3/2011](http://www.uniba.sk/fileadmin/user_upload/editors/subweby/ubytovanie/Vp_2011_3_Smernica_rektora_UK_ktora_upravuje_pravidla_rozdelovania_ubytovacej_kapacity___-_pre_web.pdf) (PDF súbor) je celouniverzitná smernica, ktorá stanovuje pravidlá prideľovania ubytovania študentom UK, teda aj výpočet bodov za študijné výsledky, časovú dostupnosť, sociálne veci a mimoškolskú činnosť.
 
 [Fakultné pravidlá prideľovania bodov](http://www.fmph.uniba.sk/index.php?id=2125) určujú najmä podmienky prideľovania bodov za mimoškolskú činnosť pre súčasných a novoprijatých študentov FMFI UK.
 
@@ -27,8 +27,9 @@ Ak chceš získať ubytovanie na internáte od FMFI UK, najdôležitejšie je po
 
 Podanie žiadosti pozostáva z nasledujúcich krokov:
 
-1.  Prihlásiš sa do systému pomocou prihlasovacích údajov, ktoré si dostal spolu s dekrétom o prijatí na štúdium. &nbsp;Po prihlásení overíš svoju e-mailovú adresu.
-2.  Vyplniš a podáš žiadosť o ubytovanie, v ktorej môžeš uviesť, s kým chceš bývať
-3.  Po odoslaní žiadosti nezabudni doručiť (poštou, mailom alebo osobne) na študijné oddelenie kópie potvrdení:
+1. Prihlásiš sa do systému pomocou prihlasovacích údajov, ktoré si dostal spolu s dekrétom o prijatí na štúdium. &nbsp;Po prihlásení overíš svoju e-mailovú adresu.
+2. Vyplniš a podáš žiadosť o ubytovanie, v ktorej môžeš uviesť, s kým chceš bývať
+3. Po odoslaní žiadosti nezabudni doručiť (poštou, mailom alebo osobne) na študijné oddelenie kópie potvrdení:
+    * preukazujúcich nárok na body za sociálne kritérium (nezamestnanosť alebo dôchodok rodičov, potvrdenie o dávke v hmotnej núdzi, a pod.),
+    * o mimoškolskej činnosti (kópie diplomov z olympiád, seminárov a iných súťaží)
 
-Informáciu o tom, či Ti bolo pridelené ubytovanie, získaš e-mailom v polovici augusta. Do konca augusta bude potrebné zaplatiť ubytovanie za prvé mesiace. Elektronické žiadosti podané po 15. 7. 2011 budú spracované až v druhom kole, ubytovanie môžeš získať začiatkom septembra.
