@@ -269,12 +269,12 @@ section > h1 {
     border-top: solid medium #e5e5e5;
     color: #888;
 }
-
 #footer, #projekty, #clenovia {
     position: relative;
 }
-
 #footer li.active > a {background-color: inherit;}
+
+#contacts {margin: 0; margin-top: 1em; list-style-type: none;}
 
 nav.bottom-bar ul {
     list-style-type: none;
@@ -293,3 +293,4 @@ nav.bottom-bar ul li:last-child {border-right: none;}
     z-index: 1;
 }
 #footer .back-to-top {right: 0;}
+
