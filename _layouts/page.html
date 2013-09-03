@@ -3,8 +3,14 @@ layout: default
 ---
 <div class="row">
     <div class="large-8 columns">
-        <h1>{{ page.title }}</h1>
-        {{ content }}
+        <article>
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+
+            <footer>
+            <span class="date">Posledná aktualizácia: <time datetime="{{ page.path | file_date }}" pubdate>{{ page.path | file_date | date_to_string }}</time></span>
+            </footer>
+        </article>
     </div>
     <div class="large-4 columns">
         {% include partners.html %}
