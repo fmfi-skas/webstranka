@@ -65,6 +65,9 @@ pre code {
 /* header */
 #header {border-bottom: 0.5em solid #FED490; margin-bottom: 1em;}
 .row {position: relative;}
+
+#skip-to-main-content {position: absolute; top: -999em; z-index: 1;}
+
 #icons {font-size: 120%; position: absolute; right: 0; top: 0; z-index: 1;}
 .top-bar-section ul a:hover {text-decoration: none;}
 

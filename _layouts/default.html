@@ -18,10 +18,13 @@
 
     </head>
     <body>
+        <a href="#hlavny-obsah" id="skip-to-main-content">Preskoč na hlavný obsah</a>
 
         {% include header.html %}
 
-        {{ content }}
+        <section role="main" id="hlavny-obsah">
+            {{ content }}
+        </section>
 
         {% include facebook-wall.html %}
 
