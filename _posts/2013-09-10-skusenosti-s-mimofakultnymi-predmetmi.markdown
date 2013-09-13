@@ -48,9 +48,7 @@ Na Filozofickej fakulte UK (FiF) je prezenčná listina, zdá sa, asi samozrejmo
 
 Na FiF sa často vyskytujú aj seminárne práce, čo na Matfyze nie je zvykom. Ja som sama seminárnu prácu ešte nepísala, ale na nete sú všelijaké návody, prípadne vám poradí aj vyučujúci a treba byť asi aj trošku jazykovo zdatný a samozrejme dodržať termíny...
 
-Pomerne ľahko sa dá dohodnúť na predtermínoch, na FiF je to asi móda a keď sa nezadarí, idú v januári.
-
-FiF mala aj jeden ročník študentskej ankety, tam sa dajú nájsť bližšie info z komentárov pre niektoré predmety.
+FiF mala aj dva ročníky [študentskej ankety](https://anketa.uniba.sk/fphil/), tam sa dajú nájsť bližšie info z komentárov pre niektoré predmety. Do ankety sa prihlasuje prihlasovacím menom a heslom ako do AISu.
 
 FiF ponúka oveľa viac celofakultných predmetov ako naša. Môžete ich nájsť vo [Word dokumente na stránke školy](http://www.fphil.uniba.sk/fileadmin/user_upload/editors/so/info/Celofakultne-kurzy-WEB.doc). Opäť všetko závisí od toho, či vás ponuka zaujme a či vám sadnú do rozvrhu.
 
