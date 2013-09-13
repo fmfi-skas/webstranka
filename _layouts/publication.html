@@ -11,6 +11,8 @@ layout: default
             <span class="date">Posledná aktualizácia: <time datetime="{{ page.path | file_date }}" pubdate>{{ page.path | file_date | date_to_string }}</time></span>
             </footer>
         </article>
+
+        {% include share.html %}
     </div>
     <div class="large-4 columns hide-for-small">
         <h2>Obsah</h2>
