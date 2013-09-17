@@ -3,7 +3,7 @@ layout: page
 title: Voľby
 ---
 
-Každý študent FMFI UK má právo voliť a byť volený do Študentskej časti Akademického senátu FMFI UK (ŠKAS), Študentskej&nbsp;časti&nbsp;Akademického senátu UK (tzv. veľký senát) a Študentskej rady vysokých škol (ŠRVŠ). Do ŠKASu sa volia 10 členovia, do veľkého senátu dvaja a do ŠRVŠ jeden člen. Riadne voľby sa vo všetkých troch pripadoch konajú každé 2 roky. Okrem riadnych volieb sa konajú aj doplňujúce voľby podľa potreby (napr. ak člen ukončil štúdium).
+Každý študent FMFI UK má právo voliť a byť volený do Študentskej komory Akademického senátu FMFI UK (ŠKAS), Študentskej&nbsp;časti&nbsp;Akademického senátu UK (tzv. veľký senát) a Študentskej rady vysokých škol (ŠRVŠ). Do ŠKASu sa volia 10 členovia, do veľkého senátu dvaja a do ŠRVŠ jeden člen. Riadne voľby sa vo všetkých troch pripadoch konajú každé 2 roky. Okrem riadnych volieb sa konajú aj doplňujúce voľby podľa potreby (napr. ak člen ukončil štúdium).
 
 Voľby do ŠKASu sa riadia&nbsp;[Zásadami volieb do akademického senátu fakulty](http://www.fmph.uniba.sk/index.php?id=277).
 
