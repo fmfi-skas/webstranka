@@ -13,7 +13,7 @@ Predsedníctvo AS&nbsp;FMFI UK dňa 16. septembra 2013 vyhlásilo doplňujúce v
 
 Voľby sa uskutočnia v pondelok **14. októbra 2013** vo vestibule pri posluchárni C od 9:30 do 16:00 hod.
 
-Doplňujúce voľby riadi volebná komisia&nbsp;v zložení: Stanislav Griguš, Mária Kieferova, Róbert Kysel, Martin Macák, Michal Švehlík (predseda) a Kristián Valentín.
+Doplňujúce voľby riadi volebná komisia&nbsp;v zložení: Stanislav Griguš, Mária Kieferová, Róbert Kysel, Martin Macák, Michal Švehlík (predseda) a Kristián Valentín.
 
 
 ## Informácie pre kandidátov
