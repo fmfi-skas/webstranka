@@ -8,10 +8,11 @@ $(function() {
 });
 
 function getFacebookEvents(id, limit) {
-    limit = typeof a !== 'undefined' ? limit : 10;
+    var limit = typeof a !== 'undefined' ? limit : 10;
+    var since = new Date().toDateString();
     ajaxRunning = true;
     $.ajax({
-        url: 'https://graph.facebook.com/' + id + '/events?limit=' + limit + access_token, 
+        url: 'https://graph.facebook.com/' + id + '/events?limit=' + limit + '&since=' + since + access_token, 
         dataType: "json",
         cache: false,
         success: function(data) {
