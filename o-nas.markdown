@@ -24,7 +24,7 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 | Bc. Jakub Kováč | Informatika | člen koncepčnej a právnej komisie |
 | Martin Macák | Ekonomická a finančná matematika | člen hospodárskej komisie |
 | <del>Bc. Gábor Szénási</del> | Matematika; počítačová grafika a geometria | |
-| Bc. Martina Šušuková | Aplikovaná informatika | |
+| <del>Bc. Martina Šušuková</del> | Aplikovaná informatika | |
 | Bc. Michal Švehlík | Ekonomická a finančná matematika | člen hospodárskej komisie |
 | Mgr. Kristián Valentín | Informatika | člen predsedníctva AS, člen pedagogickej komisie a koncepčnej a právnej komisie |
 |------------------+--------+------+------------------------------|
@@ -35,3 +35,4 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 * Bc. Gáborovi Szénásimu skončil mandát v AS FMFI UK dňa 4. marca 2013.
 * Bc. Mária Kieferová bola zvolená v doplňujúcich voľbách dňa 11. apríla 2013.
 * Bc. Zuzana Cocuľová ukončila štúdium 27. júna 2013.
+* Bc. Martina Šušuková sa vzdala mandátu v AS FMFI UK ku dňu 16. septembra 2013.
