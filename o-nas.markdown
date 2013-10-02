@@ -14,19 +14,19 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 ### Členovia pre funkčné obdobie 2012 -- 2014
 
 |-------------------+-------+--------+-----------------------------|
-| Meno a priezvisko | Odbor | Stupeň | Pôsobisko v rámci AS         |
+| Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
 |-------------------|-------|--------|-----------------------------|
-| Matúš Balogh | Fyzika | 1. | člen hospodárskej komisie a mandátovej komisie |
-| <del>Bc. Zuzana Cocuľová</del> | Fyzika | 1. | podpredsedníčka AS, členka pedagogickej komisie |
+| Matúš Balogh | Fyzika | člen hospodárskej komisie a mandátovej komisie |
+| <del>Bc. Zuzana Cocuľová</del> | Fyzika | podpredsedníčka AS, členka pedagogickej komisie |
 | Stanislav Griguš  | Matematika | |
-| Mgr. Ján Hreha | Fyzika | 3. | člen hospodárskej komisie a pedagogickej komisie
-| Bc. Mária Kieferová | Fyzika | 1. | |
-| Bc. Jakub Kováč | Informatika | 2. | člen koncepčnej a právnej komisie |
-| Martin Macák | Ekonomická a finančná matematika | 1. | člen hospodárskej komisie |
-| <del>Bc. Gábor Szénási</del> | Matematika; počítačová grafika a geometria | 2. | |
-| Bc. Martina Šušuková | Aplikovaná informatika | 2. | |
-| Bc. Michal Švehlík | Ekonomická a finančná matematika | 1. | člen hospodárskej komisie |
-| Mgr. Kristián Valentín | Informatika | 3. | člen predsedníctva AS, člen pedagogickej komisie a koncepčnej a právnej komisie |
+| Mgr. Ján Hreha | Fyzika | člen hospodárskej komisie a pedagogickej komisie
+| Bc. Mária Kieferová | Fyzika | |
+| Bc. Jakub Kováč | Informatika | člen koncepčnej a právnej komisie |
+| Martin Macák | Ekonomická a finančná matematika | člen hospodárskej komisie |
+| <del>Bc. Gábor Szénási</del> | Matematika; počítačová grafika a geometria | |
+| Bc. Martina Šušuková | Aplikovaná informatika | |
+| Bc. Michal Švehlík | Ekonomická a finančná matematika | člen hospodárskej komisie |
+| Mgr. Kristián Valentín | Informatika | člen predsedníctva AS, člen pedagogickej komisie a koncepčnej a právnej komisie |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
