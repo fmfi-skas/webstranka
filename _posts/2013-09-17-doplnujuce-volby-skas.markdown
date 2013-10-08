@@ -6,12 +6,24 @@ tags: volby
 
 Dňa 14. októbra 2013 nás čakajú doplňujúce voľby. Voliť budeme dvoch študentských zástupcov do ŠKASu. Kandidátky je možné podávať do 7. októbra 2013.
 
+## Kandidátka
+
+K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
+
+* **Bc. Ivona Demčáková** (2muMF)
+* **Askar Gafurov** (1INF)
+* **Michaela Malásková** (3FYZ)
+* **Marek Špano** (3INF)
+
+[Kandidátka vo formáte PDF](http://www.fmph.uniba.sk/fileadmin/user_upload/editors/fakulta/organy/as/dokumenty/2013-14/kandidatka_SKAS_oktober2013.pdf).
+
+
 ## Vyhlásenie volieb&nbsp;
 
 Predsedníctvo AS&nbsp;FMFI UK dňa 16. septembra 2013 vyhlásilo doplňujúce voľby do Študentskej komory [Akademického senátu FMFI UK](http://www.fmph.uniba.sk/index.php?id=118) ([zápisnica zo zasadnutia](http://www.fmph.uniba.sk/fileadmin/user_upload/editors/fakulta/organy/as/predsednictvo/2013-14/zapisnica_PAS_16-09-2013.pdf), PDF). Volia sa **dvaja** členovia.
 
 
-Voľby sa uskutočnia v pondelok **14. októbra 2013** vo vestibule pri posluchárni C od 9:30 do 16:00 hod.
+Voľby sa uskutočnia v pondelok **14. októbra 2013** vo vestibule pred posluchárňou C od 9:30 do 16:00 hod.
 
 Doplňujúce voľby riadi volebná komisia&nbsp;v zložení: Stanislav Griguš, Mária Kieferová, Róbert Kysel, Martin Macák, Michal Švehlík (predseda) a Kristián Valentín.
 
