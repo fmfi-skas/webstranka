@@ -10,7 +10,7 @@ Dňa 14. októbra 2013 nás čakajú doplňujúce voľby. Voliť budeme dvoch š
 
 K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
 
-* **Bc. Ivona Demčáková** (2muMF)
+* **Bc. Ivona Demčáková** (2muMAFY)
 * **Askar Gafurov** (1INF)
 * **Michaela Malásková** (3FYZ)
 * **Marek Špano** (3INF)
