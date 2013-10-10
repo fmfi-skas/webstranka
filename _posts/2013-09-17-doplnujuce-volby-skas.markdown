@@ -17,6 +17,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 
 [Kandidátka vo formáte PDF](http://www.fmph.uniba.sk/fileadmin/user_upload/editors/fakulta/organy/as/dokumenty/2013-14/kandidatka_SKAS_oktober2013.pdf).
 
+[Volebné programy kandidátov](http://www.fmph.uniba.sk/fileadmin/user_upload/editors/fakulta/organy/as/dokumenty/2013-14/VolebneProgramy_SKAS2013.zip).
 
 ## Vyhlásenie volieb&nbsp;
 
