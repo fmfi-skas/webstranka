@@ -6,6 +6,12 @@ tags: volby
 
 Dňa 14. októbra 2013 nás čakajú doplňujúce voľby. Voliť budeme dvoch študentských zástupcov do ŠKASu. Kandidátky je možné podávať do 7. októbra 2013.
 
+## Výsledky
+
+Do Študentskej časti AS FMFI UK (ŠKAS) boli zvolení **Michaela Malásková** (3FYZ) a **Marek Špano** (3INF).
+
+[Zápisnica z volieb](http://www.fmph.uniba.sk/fileadmin/user_upload/editors/fakulta/organy/as/dokumenty/2013-14/zapisnica_SKAS_oktober2013.pdf) je zverejnená na webovej stránke senátu.
+
 ## Kandidátka
 
 K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
