@@ -19,11 +19,13 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 | Matúš Balogh | Fyzika | člen hospodárskej komisie a mandátovej komisie |
 | <del>Bc. Zuzana Cocuľová</del> | Fyzika | podpredsedníčka AS, členka pedagogickej komisie |
 | Stanislav Griguš  | Matematika | |
-| Mgr. Ján Hreha | Fyzika | člen hospodárskej komisie a pedagogickej komisie
+| Mgr. Ján Hreha | Fyzika | člen hospodárskej komisie a pedagogickej komisie |
 | Bc. Mária Kieferová | Fyzika | |
 | Bc. Jakub Kováč | Informatika | člen koncepčnej a právnej komisie |
 | Martin Macák | Ekonomická a finančná matematika | člen hospodárskej komisie |
+| Michaela Malásková | Fyzika | |
 | <del>Bc. Gábor Szénási</del> | Matematika; počítačová grafika a geometria | |
+| Marek Špano | Informatika | |
 | <del>Bc. Martina Šušuková</del> | Aplikovaná informatika | |
 | Bc. Michal Švehlík | Ekonomická a finančná matematika | člen hospodárskej komisie |
 | Mgr. Kristián Valentín | Informatika | člen predsedníctva AS, člen pedagogickej komisie a koncepčnej a právnej komisie |
@@ -36,3 +38,4 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 * Bc. Mária Kieferová bola zvolená v doplňujúcich voľbách dňa 11. apríla 2013.
 * Bc. Zuzana Cocuľová ukončila štúdium 27. júna 2013.
 * Bc. Martina Šušuková sa vzdala mandátu v AS FMFI UK ku dňu 16. septembra 2013.
+* Michaela Malásková a Marek Špano boli zvolení v doplňujúcich voľbách dňa 14. októbra 2013.
