@@ -27,8 +27,8 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 | <del>Bc. Gábor Szénási</del> | Matematika; počítačová grafika a geometria | |
 | Marek Špano | Informatika | |
 | <del>Bc. Martina Šušuková</del> | Aplikovaná informatika | |
-| Bc. Michal Švehlík | Ekonomická a finančná matematika | člen hospodárskej komisie |
-| Mgr. Kristián Valentín | Informatika | člen predsedníctva AS, člen pedagogickej komisie a koncepčnej a právnej komisie |
+| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda AS (predseda ŠKAS) a člen hospodárskej komisie |
+| Mgr. Kristián Valentín | Informatika | podpredseda ŠKAS, člen pedagogickej komisie a koncepčnej a právnej komisie |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
