@@ -3,22 +3,48 @@ layout: page
 title: Voľby
 ---
 
-Každý študent FMFI UK má právo voliť a byť volený do Študentskej komory Akademického senátu FMFI UK (ŠKAS), Študentskej&nbsp;časti&nbsp;Akademického senátu UK (tzv. veľký senát) a Študentskej rady vysokých škol (ŠRVŠ). Do ŠKASu sa volia 10 členovia, do veľkého senátu dvaja a do ŠRVŠ jeden člen. Riadne voľby sa vo všetkých troch pripadoch konajú každé 2 roky. Okrem riadnych volieb sa konajú aj doplňujúce voľby podľa potreby (napr. ak člen ukončil štúdium).
+Každý študent FMFI UK má právo voliť a byť volený do:
 
-Voľby do ŠKASu sa riadia&nbsp;[Zásadami volieb do akademického senátu fakulty](http://www.fmph.uniba.sk/index.php?id=277).
+* Študentskej komory Akademického senátu FMFI UK (ŠKAS),
+* Študentskej&nbsp;časti&nbsp;Akademického senátu UK (tzv. veľký senát) a
+* Študentskej rady vysokých škol (ŠRVŠ).
+
+### Voľby do ŠKASu
+
+Riadne voľby do ŠKAS-u sa konajú každoročne v období apríl/máj. V riadnych voľbách sa volí 5 členov ŠKAS-u na dvojročné funkčné obdobie (začína plynúť od 1. júna). Nezvolení kandidáti sa stávajú náhradníkmi. V prípade vyčerpania zoznamu náhradníkov sa na uprázdené miesto člena ŠKAS-u konajú doplňujúce voľby.
+
+V riadnych voľbách v roku 2014 sa volí 10 členov. Za členov ŠKAS-u na dvojročné funkčné obdobie budú zvolení prví piati kandidáti s najväčším počtom platných hlasov; funkčné obdobie ostatných zvolených členov ŠKAS-u bude jednoročné a skončí sa 31. mája 2015.
+
+Voľby do ŠKASu sa riadia&nbsp;[Zásadami volieb do Akademického senátu FMFI UK](http://www.fmph.uniba.sk/index.php?id=3252).
+
+### Voľby do Študentskej časti Akademického senátu UK
+
+Riadne voľby do Študentskej časti Akademického senátu UK sa konajú každé štyri roky v období september/október. V riadnych voľbách sa volia 2 členovia na štvorročné funkčné obdobie (začína plynúť od 1. novembra). V prípade uprázdenia miesta člena tzv. veľkého senátu (napr. z dôvodu ukončenia štúdia) sa konajú doplňujúce voľby.
+
+Najbližšie riadne voľby do tzv. veľkého senátu sa uskutočnia v roku 2015.
+
+### Voľby do Študenskej rady vysokých škôl
+
+V riadnych voľbách do ŠRVŠ sa volí 1 delegát na dvojročné volebné obdobie. Najbližšie riadne voľby do ŠRVŠ sa uskutočnia na jeseň 2014.
+
+***
 
 ## Informácie pre kandidátov
 
-Kandidáti, posielajte prihlášky čím skôr od vyhlasánia volieb na adresu&nbsp;
-<a href="mailto:volby@skas.fmph.uniba.sk" rel="nofollow">volby@skas.fmph.uniba.sk</a>. Konkrétny termín bude vždy včas zverejnený.
+Právo navrhovať kandidáta má ktorýkoľvek člen alebo skupina členov akademickej obce fakulty (študent aj zamestnanec). Kandidát však nemôže navrhnúť samého seba. Volebná komisia zverejňuje vzorové formuláre pre návrhy kandidátov a ich písomný súhlas s kandidatúrou. Návrhy sa podávajú v papierovej podobe osobne ktorémukoľvek členovi volebnej komisie alebo prostredníctvom podateľne fakulty v lehote určenej volebnou komisiou.
 
-Prihláška musí obsahovať:
+**Návrh kandidáta** musí obsahovať:
 
-* meno
-* odbor a rok štúdia
-* e-mailový a telefonický kontakt
+* meno a priezvisko navrhovateľa,
+* pracovisko navrhovateľa (ak návrh podáva člen zamestnaneckej časti akademickej obce fakulty),
+* študijný program a rok štúdia navrhovateľa (ak návrh podáva člen študentskej časti akademickej obce fakulty),
+* meno a priezvisko kandidáta,
+* študijný program a rok štúdia kandidáta,
+* dátum, miesto a podpis navrhovateľa.
 
-Okrem elektronickej prihlášky musíte niektorému členovi volebnej komisie (alebo do podateľne v obálke s viditeľným heslom "ŠKAS") doručiť&nbsp;**návrh Vašej osoby za kandidáta** od iného člena akademickej obce fakulty (študent alebo učiteľ) v papierovej forme a Váš **súhlas s kandidatúrou**. Príslušné vzorové formuláre budú včas zverejnené.
+K návrhu musí byť pripojené vlastnoručne podpísané **vyhlásenie kandidáta**, že súhlasí so svojou kandidatúrou.
 
-Vítanou súčasťou kandidatúry je **volebný program**, tj. zoznam vecí ktoré by ste chceli presadzovať či realizovať. Volebný program je vhodné doplniť o fotografiu. Tieto dokumenty následne zverejníme spolu s kandidátkou a následne aj vyvesíme na nástenke v mieste konania volieb.
+Odporúča sa, aby kandidáti posielali návrhy (prihlášky) aj v **elektronickej podobe** na adresu [volby@skas.fmph.uniba.sk](mailto:volby@skas.fmph.uniba.sk) a uviedli e-mailový a telefonický kontakt.
+
+Vítanou súčasťou kandidatúry je **volebný program**, t.j. zoznam vecí, ktoré by kandidát chcel presadzovať či realizovať (vhodne doplnený o fotografiu). Volebné programy kandidátov zverejní volebná komisia na webovom sídle fakulty a stránke ŠKAS-u.
 
