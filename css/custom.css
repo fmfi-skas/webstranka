@@ -141,9 +141,12 @@ section > h1 {
 .project > img {float: left; padding-right: 0.5em;}
 
 .date {color: #777; display: block; margin-bottom: 0.8em;}
-.post .date:before {content: "Publikované: ";}
+.post .date:before, .post-excerpt .date:before {content: "Publikované: ";}
 .post h1 {font-size: 2.3em;}
 .post-content > p:first-child {font-style: italic;}
+
+.post-excerpt h2 {margin-bottom: 0.2em;}
+.post-excerpt .date {margin-bottom: 0.5em;}
 
 .partner {margin-bottom: 1.5em;}
 
