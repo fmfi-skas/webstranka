@@ -11,9 +11,9 @@ Každý študent FMFI UK má právo voliť a byť volený do:
 
 ### Voľby do ŠKASu
 
-Riadne voľby do ŠKAS-u sa konajú každoročne v období apríl/máj. V riadnych voľbách sa volí 5 členov ŠKAS-u na dvojročné funkčné obdobie (začína plynúť od 1. júna). Nezvolení kandidáti sa stávajú náhradníkmi. V prípade vyčerpania zoznamu náhradníkov sa na uprázdené miesto člena ŠKAS-u konajú doplňujúce voľby.
+Riadne voľby do ŠKASu sa konajú každoročne v období apríl/máj. V riadnych voľbách sa volí 5 členov ŠKASu na dvojročné funkčné obdobie (začína plynúť od 1. júna). Nezvolení kandidáti sa stávajú náhradníkmi. V prípade vyčerpania zoznamu náhradníkov sa na uprázdené miesto člena ŠKASu konajú doplňujúce voľby.
 
-V riadnych voľbách v roku 2014 sa volí 10 členov. Za členov ŠKAS-u na dvojročné funkčné obdobie budú zvolení prví piati kandidáti s najväčším počtom platných hlasov; funkčné obdobie ostatných zvolených členov ŠKAS-u bude jednoročné a skončí sa 31. mája 2015.
+V riadnych voľbách v roku 2014 sa volí 10 členov. Za členov ŠKASu na dvojročné funkčné obdobie budú zvolení prví piati kandidáti s najväčším počtom platných hlasov; funkčné obdobie ostatných zvolených členov ŠKASu bude jednoročné a skončí sa 31. mája 2015.
 
 Voľby do ŠKASu sa riadia&nbsp;[Zásadami volieb do Akademického senátu FMFI UK](http://www.fmph.uniba.sk/index.php?id=3252).
 
