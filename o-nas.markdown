@@ -9,7 +9,7 @@ title: O nás
 ## Kto je ŠKAS?
 Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať na zlepšení celkovej kvality štúdia a študentského života na fakulte.
 
-Členovia ŠKASu sú volení študentmi FMFI a reprezentujú ich v Akademickom senáte FMFI UK. Akademický senát FMFI UK je samosprávny zastupiteľský orgán, ktorý rozhoduje na svojich zasadnutiach o dôležitých otázkach fungovania fakulty.
+Členovia ŠKASu sú volení študentmi FMFI a reprezentujú ich v Akademickom senáte FMFI UK. [Akademický senát FMFI UK](http://www.fmph.uniba.sk/index.php?id=118) je samosprávny zastupiteľský orgán, ktorý rozhoduje na svojich zasadnutiach o dôležitých otázkach fungovania fakulty.
 
 ### Členovia pre funkčné obdobie 2012 -- 2014
 
