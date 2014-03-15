@@ -1,7 +1,7 @@
-Webstranka
+SKAS Webstranka
 ==========
 
-Oficiálna webová stránka ŠKAS FMFI UK
+Oficiálna webová stránka ŠKAS FMFI UK.
 
 ## Požiadavky ##
 
@@ -13,9 +13,10 @@ Oficiálna webová stránka ŠKAS FMFI UK
 1. Stiahni zdrojové súbory:
 
   ``` bash
-  $ git clone <repository_url>
+  $ git clone https://github.com/fmfi-skas/webstranka.git skas-webstranka
+  $ cd skas-webstranka
   $ git submodule init
-  $ git submodule update && git submodule update
+  $ git submodule update
   ```
 
 2. Spusti `jekyll build` na vygenerovanie statických HTML stránok.
