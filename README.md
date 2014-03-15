@@ -7,6 +7,7 @@ Oficiálna webová stránka ŠKAS FMFI UK.
 
 * [Jekyll](http://jekyllrb.com/docs/installation/)
 * `ruby-i18n` package (potrebný kvôli internalization pluginu)
+* [nodejs](http://nodejs.org/)
 
 ## Inštalácia ##
 
@@ -17,6 +18,9 @@ Oficiálna webová stránka ŠKAS FMFI UK.
   $ cd skas-webstranka
   $ git submodule init
   $ git submodule update
+  $ npm install
+  $ node_modules/.bin/bower install
+  $ node_modules/.bin/grunt build
   ```
 
 2. Spusti `jekyll build` na vygenerovanie statických HTML stránok.

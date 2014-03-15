@@ -5,6 +5,29 @@ $(function() {
     //jQuery.support.cors = true;  
     moreFeed(createStartQuery(), 'start');
     getFacebookEvents('132827200107060', 10);
+
+    $('.f-prev').click(function() { 
+        if (!ajaxRunning && $('.f-post:first').css('left') === '-720px') {
+            $('.f-post').each(function () {
+            var newPosition = $(this).position().left + 720;
+            $(this).animate({'left': '+=720px'}, 700);
+            $(this).css('left', newPosition);
+        });
+        removePostsFromEnd();
+        moreFeed(createPrevQuery(), 'prev'); 
+      }                          
+    });
+    $('.f-next').click(function() { 
+        if (!ajaxRunning  && $('.f-post:last').css('left') === '1200px') {
+            $('.f-post').each(function () {
+            var newPosition = $(this).position().left - 720;
+            $(this).animate({'left': '-=720px'}, 700);
+            $(this).css('left', newPosition);
+        });
+        removePostsFromStart();
+        moreFeed(createNextQuery(), 'next'); 
+      }
+    });
 });
 
 function getFacebookEvents(id, limit) {
@@ -60,28 +83,6 @@ function facebookFeed(result, type) {
             $('.f-wrapper').append(outputTemplate.format(item.created_time, item.permalink, date, message)); 
     });
 }
-$('.f-prev').live('click', function() { 
-    if (!ajaxRunning && $('.f-post:first').css('left') === '-720px') {
-        $('.f-post').each(function () {
-        var newPosition = $(this).position().left + 720;
-        $(this).animate({'left': '+=720px'}, 700);
-        $(this).css('left', newPosition);
-    });
-    removePostsFromEnd();
-    moreFeed(createPrevQuery(), 'prev'); 
-  }                          
-});
-$('.f-next').live('click', function() { 
-    if (!ajaxRunning  && $('.f-post:last').css('left') === '1200px') {
-        $('.f-post').each(function () {
-        var newPosition = $(this).position().left - 720;
-        $(this).animate({'left': '-=720px'}, 700);
-        $(this).css('left', newPosition);
-    });
-    removePostsFromStart();
-    moreFeed(createNextQuery(), 'next'); 
-  }
-});
 function removePostsFromStart() {
     var numOfPosts = $('.f-post').length;
     console.log(numOfPosts);

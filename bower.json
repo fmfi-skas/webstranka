@@ -1,0 +1,6 @@
+{
+  "name": "SKAS webstranka",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+}

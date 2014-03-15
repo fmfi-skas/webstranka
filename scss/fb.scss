@@ -1,0 +1,122 @@
+/*
+-----------------Facebook box----------------
+*/
+#facebook {
+    margin-top: 2em;
+    height: 200px;
+    background-color: #f6f6f6;
+}
+
+#f-left {
+    display: inline-block;
+    height: 100%;
+    background-color: #19458e;
+    outline: thin solid #103470;
+    outline-offset: -1px;
+    position: relative;
+}
+#f-left a {position: absolute; bottom: 1em; color: white; font-weight: bold;}
+
+.f-name {
+    font-size: 1.1em;
+    color: #fff;
+    padding: 0.8em;
+}
+
+#f-right {
+    display: inline-block;
+    height: 100%;
+    outline: thin solid #ececec;
+    outline-offset: -1px;
+    padding: 0;
+}
+
+.f-prev, .f-next {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.f-prev:hover, .f-next:hover {
+    -moz-box-shadow: inset 0 0 7px #d4d4d4;
+    -webkit-box-shadow: inset 0px 0px 7px #d4d4d4;
+    box-shadow: inset 0px 0px 7px #d4d4d4;
+    width: 100%;
+}
+
+.f-prev {
+    background-image: url('/assets/images/left_arrow.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    border-bottom: 1px solid #ececec;
+}
+
+.f-next {
+    background-image: url('/assets/images/right_arrow.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.f-prev span, .f-next span {
+    display: none;
+}
+
+#f-feed {
+    display: inline-block;
+    height: 100%;
+    outline: 1px solid #ececec;
+    outline-offset: -1px;
+}
+
+#f-feed .f-post {
+    font-size: 90%;
+    line-height: 130%;
+}
+
+.f-wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+}
+/*
+---------------Facebook post----------------
+*/
+.f-post {
+    width: 33.33333%;
+    float: left;
+    padding: 0 1ex;
+    color: #707070;
+    word-wrap: break-word;
+    position: absolute;
+}
+
+.created_time {
+    position: absolute;
+}
+
+.f-from {
+    font-size: 12px !important;
+}
+
+.f-from a {
+    color: #19458e;
+    text-decoration: none;
+}
+
+.f-time {
+    color: #8f8f8f;
+    font-size: 12px !important;
+}
+
+.f-header {
+    padding: 10px 0;
+}
+/* facebook events */
+#f-events-wrapper {display: none;}
+.f-event {
+    line-height: 1.3;
+    margin-bottom: 1.3em;
+}
+.f-event .location {color: #777;}
+

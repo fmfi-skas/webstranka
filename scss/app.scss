@@ -1,0 +1,159 @@
+@import "normalize";
+@import "foundation/components/_global";
+
+body {padding-top: 1em;}
+
+/* typography */
+$primary-color: #8e191b;
+$secondary-color: #FECA77;
+
+
+$header-font-weight: bold;
+$h1-font-size: rem-calc(36);
+h1.title {font-size: 1.6em;}
+$h2-font-size: rem-calc(24);
+$h3-font-size: rem-calc(20);
+
+$paragraph-line-height: 1.5;
+
+a:hover, a:focus {text-decoration: underline;}
+
+h1.title, h1.title > a:link, h1.title > a:visited {color: $primary-color;}
+h2.subtitle {font-size: 1.1em; font-style: italic; font-weight: normal;}
+
+/* top-bar */
+$topbar-bg: #fff;
+$topbar-link-bg-hover: $primary-color;
+$topbar-dropdown-bg: #fff;
+$topbar-link-bg-active: #fff;
+$topbar-link-bg-active-hover: $secondary-color;
+$topbar-link-color: #333;
+$topbar-link-color-active: #333;
+$topbar-link-font-size: rem-calc(16);
+$topbar-link-text-transform: uppercase;
+
+$topbar-dropdown-link-color: #333;
+
+li.not-click > a:hover {text-decoration: none;}
+.top-bar-section >  ul > li>a:hover,
+.top-bar-section >  ul > li>a:focus,
+.top-bar-section li.active:not(.has-form) > a:not(.button):hover,
+.top-bar-section li.active:not(.has-form) > a:not(.button):focus {
+    background-color: $primary-color !important;
+    color: white;
+}
+.top-bar-section .dropdown li:not(.has-form) a:not(.button),
+.top-bar-section li.active .dropdown li a:not(.button) {
+    border-bottom: thin solid #e3dad1;
+    text-transform: none;
+    line-height: 2em;
+}
+.top-bar-section .dropdown li:not(.has-form) > a:not(.button):hover,
+.top-bar-section .dropdown li:not(.has-form) > a:not(.button):focus {
+    background-color: $secondary-color;
+    color: $topbar-link-color;
+}
+.top-bar-section ul li.active>a {
+    border-bottom: thin solid #AAA;
+    font-weight: bold;
+    border-bottom-width: medium;
+}
+@media only screen and (min-width: 40.063em) {
+    .top-bar-section .has-dropdown>a:after {
+        border-color: rgba(0,0,0,0.5) transparent transparent transparent !important;
+    }
+    .top-bar {
+        position: relative;
+        top: 2.1em;
+    }
+    .top-bar-section >  ul > li > a {
+        border-radius: 0.5em;
+        padding-right: 15px;
+    }
+}
+
+/* header */
+#header {border-bottom: 0.5em solid $secondary-color; margin-bottom: 1em;}
+.row {position: relative;}
+
+#skip-to-main-content {position: absolute; top: -999em; z-index: 1;}
+
+#icons {font-size: 120%; position: absolute; right: 0; top: 0; z-index: 1;}
+
+#logo {min-width: 100px;}
+#logo > img {float: left; margin: 0 1em 1em 0;}
+
+
+/* content */
+table > caption {margin-bottom: 0.5em;}
+table thead th {background-color: #FED490;}
+
+#welcome-panel {padding: 2em 3em 0 2em; font-size: 120%;}
+#welcome-panel > h1 {margin-bottom: 0.3em;}
+section > h1 {
+    font-size: 2em;
+    margin-top: 0.5em;
+    padding: 0.2em 0.3em;
+    background-color: #EEE;
+    border-bottom: solid medium #DDD;
+    border-radius: 0.2em;
+    font-weight: normal;
+}
+
+.project > img {float: left; padding-right: 0.5em;}
+
+.date {color: #777; display: block; margin-bottom: 0.8em;}
+.post .date:before, .post-excerpt .date:before {content: "Publikované: ";}
+.post h1 {font-size: 2.3em;}
+.post-content > p:first-child {font-style: italic;}
+
+.post-excerpt h2 {margin-bottom: 0.2em;}
+.post-excerpt .date {margin-bottom: 0.5em;}
+
+.partner {margin-bottom: 1.5em;}
+
+#members-table thead th:first-child {width: 30%;}
+
+/* footer */
+#footer {
+    padding: 1em 0;
+    margin-top: 2em;
+    border-top: solid medium #e5e5e5;
+    color: #888;
+}
+#footer, #projekty, #clenovia {
+    position: relative;
+}
+#footer li.active > a {background-color: inherit;}
+
+#contacts {margin: 0; margin-top: 1em; list-style-type: none;}
+
+nav.bottom-bar ul {
+    list-style-type: none;
+    margin: 0;
+}
+nav.bottom-bar ul li {
+    display: inline-block;
+    padding: 0 0.5em;
+}
+nav.bottom-bar ul li:last-child {border-right: none;}
+
+.back-to-top {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    z-index: 1;
+}
+#footer .back-to-top {right: 0;}
+
+@import "sprievodca";
+@import "fb";
+
+@import "foundation/components/_grid";
+@import "foundation/components/_top-bar";
+@import "foundation/components/_buttons";
+@import "foundation/components/_type";
+@import "foundation/components/_pagination";
+@import "foundation/components/_panels";
+@import "foundation/components/_tables";
+@import "foundation/components/visibility";

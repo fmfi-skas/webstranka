@@ -1,0 +1,25 @@
+/* counter for headings */
+.counter h1 {counter-reset: kapitola;}
+.counter h2:before {
+    counter-increment: kapitola;
+    content: counter(kapitola) " ";
+    counter-reset: podkapitola;
+    counter-reset: tabulka;
+}
+.counter h3:before {
+    counter-increment: podkapitola;
+    content: counter(kapitola) "." counter(podkapitola) " ";
+}
+h2.no_toc:before {
+    counter-reset: kapitola;
+}
+h2.no_toc:before,  h3.no_toc:before {
+    content: "";
+    counter-increment: none;
+}
+table > caption:before {
+    counter-increment: tabulka;
+    content: "Tabuľka " counter(kapitola) "." counter(tabulka) ": ";
+}
+
+ul, ol {margin-left: 3em;}
