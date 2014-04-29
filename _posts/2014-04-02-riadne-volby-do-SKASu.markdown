@@ -4,7 +4,7 @@ title: Riadne voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov je možné podávať do 30. apríla 2014 12:00 hod.
+V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov je možné podávať do <s>30. apríla</s> 5. mája 2014 12:00 hod.
 
 ## Vyhlásenie volieb
 
@@ -24,7 +24,7 @@ Vo voľbách sa **volí 10 členov**. Za členov študentskej komory na dvojroč
 
 ## Informácie pre kandidátov
 
-Návrhy kandidátov sa podávajú osobne ktorémukoľvek členovi volebnej komisie alebo prostredníctvom podateľne fakulty (v obálke s viditeľným označením "ŠKAS") v lehote od 1. apríla 2014 do **30. apríla 2014 12:00 hod**.
+Návrhy kandidátov sa podávajú osobne ktorémukoľvek členovi volebnej komisie alebo prostredníctvom podateľne fakulty (v obálke s viditeľným označením "ŠKAS") v lehote od 1. apríla 2014 do **<s>30. apríla</s> 5. mája 2014 12:00 hod**.
 
 Právo navrhovať kandidáta má ktorýkoľvek člen alebo skupina členov akademickej obce fakulty (študent aj zamestnanec). Kandidát však nemôže navrhnúť samého seba. 
 
