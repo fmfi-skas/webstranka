@@ -8,8 +8,8 @@ V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové fu
 
 ## Čas konania volieb a volebné miesto
 
-Čas konania volieb: 09.00 hod. - 16.00 hod.
-Volebné miesto: vestibul pri matematickej vrátnici
+**Čas konania volieb:** 09.00 hod. - 16.00 hod.
+**Volebné miesto:** vestibul pri matematickej vrátnici
 
 ## Kandidátka
 
