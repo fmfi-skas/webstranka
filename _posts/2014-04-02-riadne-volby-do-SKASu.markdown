@@ -4,7 +4,12 @@ title: Riadne voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov je možné podávať do <s>30. apríla</s> 5. mája 2014 12:00 hod. 5. mája bola doplnéná kandidátka.
+V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov bolo možné podávať do <s>30. apríla</s> 5. mája 2014 12:00 hod. Kandidátka bola zverejnená 5. mája 2014.
+
+## Čas konania volieb a volebné miesto
+
+Čas konania volieb: 09.00 hod. - 16.00 hod.
+Volebné miesto: vestibul pri matematickej vrátnici
 
 ## Kandidátka
 
@@ -16,7 +21,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | Estilla Alföldiová   | bakalársky    | Biomedicínska fyzika          | 2 |
 | Dominika Balabánová  | bakalársky    | Manažérska matematika         | 3 |
 | Kristína Blašková    | bakalársky    | Fyzika                        | 1 |
-| Anna Buchholcerová   | magisterský   | Meteorológia a klimatológia   | 1 |
+| Bc. Anna Buchholcerová| magisterský  | Meteorológia a klimatológia   | 1 |
 | Bc. Ivona Demčáková  | magisterský   | UAP matematika - fyzika       | 2 |
 | Bc. Hana Hozzánková  | magisterský   | Manažérska matematika         | 2 |
 | Mgr. Ján Hreha       | doktorandský  | Fyzika kondenzovaných látok a akustika | 2 |
@@ -31,7 +36,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | Kristína Tomová      | bakalársky    | Fyzika                           | 1 |
 |----------------------+---------------+----------------------------------+---|
 
-Volebné programy (plagáty) kandidátov búdu môcť byť umiestnené na vyhradených nástenkách pri vchodoch do fakulty.
+Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
 
 ## Vyhlásenie volieb
 
