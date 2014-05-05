@@ -4,7 +4,34 @@ title: Riadne voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov je možné podávať do <s>30. apríla</s> 5. mája 2014 12:00 hod.
+V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov je možné podávať do <s>30. apríla</s> 5. mája 2014 12:00 hod. 5. mája bola doplnéná kandidátka.
+
+## Kandidátka
+
+K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
+
+|----------------------+---------------+-------------------------------+------------|
+|  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
+|----------------------|---------------|-------------------------------|------------
+| Estilla Alföldiová   | bakalársky    | Biomedicínska fyzika          | 2 |
+| Dominika Balabánová  | bakalársky    | Manažérska matematika         | 3 |
+| Kristína Blašková    | bakalársky    | Fyzika                        | 1 |
+| Anna Buchholcerová   | magisterský   | Meteorológia a klimatológia   | 1 |
+| Bc. Ivona Demčáková  | magisterský   | UAP matematika - fyzika       | 2 |
+| Bc. Hana Hozzánková  | magisterský   | Manažérska matematika         | 2 |
+| Mgr. Ján Hreha       | doktorandský  | Fyzika kondenzovaných látok a akustika | 2 |
+| Kristína Jablonická  | magisterský   | Ekonomická a finančná matematika | 1 |
+| Michaela Malásková   | bakalársky    | Fyzika                           | 3 |
+| Martin Oberuč        | bakalársky    | Ekonomická a finančná matematika | 3 |
+| Nataša Plulíková     | bakalársky    | Matematika                       | 1 |
+| Ján Révay            | bakalársky    | Matematika                       | 4 |
+| Tomáš Smolárik       | bakalársky    | Ekonomická a finančná matematika | 3 |
+| Marek Špano          | bakalársky    | kInformatika                     | 3 |
+| Bc. Michal Švehlík   | magisterský   | Ekonomická a finančná matematika | 1 |
+| Kristína Tomová      | bakalársky    | Fyzika                           | 1 |
+|----------------------+---------------+----------------------------------+---|
+
+Volebné programy (plagáty) kandidátov búdu môcť byť umiestnené na vyhradených nástenkách pri vchodoch do fakulty.
 
 ## Vyhlásenie volieb
 
