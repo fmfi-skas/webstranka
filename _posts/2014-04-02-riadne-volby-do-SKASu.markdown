@@ -25,7 +25,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | Bc. Ivona Demčáková  | magisterský   | UAP matematika - fyzika       | 2 |
 | Bc. Hana Hozzánková  | magisterský   | Manažérska matematika         | 1 |
 | Mgr. Ján Hreha       | doktorandský  | Fyzika kondenzovaných látok a akustika | 2 |
-| Kristína Jablonická  | magisterský   | Ekonomická a finančná matematika | 1 |
+| Bc. Kristína Jablonická  | magisterský   | Ekonomická a finančná matematika | 1 |
 | Michaela Malásková   | bakalársky    | Fyzika                           | 3 |
 | Martin Oberuč        | bakalársky    | Ekonomická a finančná matematika | 3 |
 | Nataša Plulíková     | bakalársky    | Matematika                       | 1 |
