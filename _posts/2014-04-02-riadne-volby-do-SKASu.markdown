@@ -27,12 +27,12 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | Mgr. Ján Hreha       | doktorandský  | Fyzika kondenzovaných látok a akustika | 2 |
 | Bc. Kristína Jablonická  | magisterský   | Ekonomická a finančná matematika | 1 |
 | Michaela Malásková   | bakalársky    | Fyzika                           | 3 |
-| Martin Oberuč        | bakalársky    | Ekonomická a finančná matematika | 3 |
+| [Martin Oberuč](https://drive.google.com/file/d/0B2uXBi4k2UbkcThtNEtUNUVSUVU/edit?usp=sharing)        | bakalársky    | Ekonomická a finančná matematika | 3 |
 | Nataša Plulíková     | bakalársky    | Matematika                       | 1 |
 | Ján Révay            | bakalársky    | Matematika                       | 4 |
 | Tomáš Smolárik       | bakalársky    | Ekonomická a finančná matematika | 3 |
 | Marek Špano          | bakalársky    | Informatika                      | 3 |
-| Bc. Michal Švehlík   | magisterský   | Ekonomická a finančná matematika | 1 |
+| [Bc. Michal Švehlík](https://drive.google.com/file/d/0B2uXBi4k2UbkeUdpd3AySHVFWUU/edit?usp=sharing)   | magisterský   | Ekonomická a finančná matematika | 1 |
 | Kristína Tomová      | bakalársky    | Fyzika                           | 1 |
 |----------------------+---------------+----------------------------------+---|
 
