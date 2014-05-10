@@ -31,7 +31,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | Nataša Plulíková     | bakalársky    | Matematika                       | 1 |
 | Ján Révay            | bakalársky    | Matematika                       | 4 |
 | Tomáš Smolárik       | bakalársky    | Ekonomická a finančná matematika | 3 |
-| Marek Špano          | bakalársky    | kInformatika                     | 3 |
+| Marek Špano          | bakalársky    | Informatika                      | 3 |
 | Bc. Michal Švehlík   | magisterský   | Ekonomická a finančná matematika | 1 |
 | Kristína Tomová      | bakalársky    | Fyzika                           | 1 |
 |----------------------+---------------+----------------------------------+---|
