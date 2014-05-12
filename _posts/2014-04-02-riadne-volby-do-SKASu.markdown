@@ -21,7 +21,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | Estilla Alföldiová   | bakalársky    | Biomedicínska fyzika          | 2 |
 | Dominika Balabánová  | bakalársky    | Manažérska matematika         | 3 |
 | Kristína Blašková    | bakalársky    | Fyzika                        | 1 |
-| Bc. Anna Buchholcerová| magisterský  | Meteorológia a klimatológia   | 1 |
+| [Bc. Anna Buchholcerová](https://drive.google.com/file/d/0B2uXBi4k2UbkWkFzcWY0TnBscmc/edit?usp=sharing)| magisterský  | Meteorológia a klimatológia   | 1 |
 | Bc. Ivona Demčáková  | magisterský   | UAP matematika - fyzika       | 2 |
 | [Bc. Hana Hozzánková](https://www.facebook.com/events/1430501287203119/)  | magisterský   | Manažérska matematika         | 1 |
 | Mgr. Ján Hreha       | doktorandský  | Fyzika kondenzovaných látok a akustika | 2 |
