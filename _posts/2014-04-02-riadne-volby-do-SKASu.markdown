@@ -24,6 +24,15 @@ Za členov študentskej komory Akademického senátu FMFI UK na jednoročné fun
 4. Estilla Alföldiová 
 5. Kristína Tomová
 
+Náhradníkmi sú v poradí:
+
+1. Dominika Balabánová
+2. Tomáš Smolárik
+3. Michaela Malásková
+4. Nataša Plulíková
+5. Ján Révay
+6. Bc. Ivona Demčáková
+
 [Zápisnica z volieb](http://www.fmph.uniba.sk/fileadmin/user_upload/editors/fakulta/organy/as/volbyAS2014/zapisnica-SKAS_FMFI_UK.pdf) je zverejnená na webovej stránke senátu.
 
 ## Čas konania volieb a volebné miesto
