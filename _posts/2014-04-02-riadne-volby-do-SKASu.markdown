@@ -4,7 +4,27 @@ title: Riadne voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov bolo možné podávať do <s>30. apríla</s> 5. mája 2014 12:00 hod. Kandidátka bola zverejnená 5. mája 2014.
+V dňoch 12. a 13. mája 2014 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie. Voliť budeme desiatich študentských senátorov. Návrhy kandidátov bolo možné podávať do <s>30. apríla</s> 5. mája 2014 12:00 hod. Kandidátka bola zverejnená 5. mája 2014. Výsledky sú k dispozícii od 13. mája 2014.
+
+## Výsledky volieb
+
+Za členov študentskej komory Akademického senátu FMFI UK na dvojročné funkčné obdobie od 1. júna 2014 do 31. mája 2016 boli zvolení:
+
+1. Bc. Michal Švehlík
+2. Mgr. Ján Hreha
+3. Marek Špano 
+4. Bc. Hana Hozzánková 
+5. Martin Oberuč
+
+Za členov študentskej komory Akademického senátu FMFI UK na jednoročné funkčné obdobie od 1. júna 2014 do 31. mája 2015 boli zvolení:
+
+1. Bc. Anna Buchholcerová
+2. Bc. Kristína Jablonická
+3. Kristína Blašková 
+4. Estilla Alföldiová 
+5. Kristína Tomová
+
+[Zápisnica z volieb](http://www.fmph.uniba.sk/fileadmin/user_upload/editors/fakulta/organy/as/volbyAS2014/zapisnica-SKAS_FMFI_UK.pdf) je zverejnená na webovej stránke senátu.
 
 ## Čas konania volieb a volebné miesto
 
