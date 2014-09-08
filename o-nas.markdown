@@ -11,7 +11,41 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 
 Členovia ŠKASu sú volení študentmi FMFI a reprezentujú ich v Akademickom senáte FMFI UK. [Akademický senát FMFI UK](http://www.fmph.uniba.sk/index.php?id=118) je samosprávny zastupiteľský orgán, ktorý rozhoduje na svojich zasadnutiach o dôležitých otázkach fungovania fakulty.
 
-### Členovia pre funkčné obdobie 2012 -- 2014
+Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polovica členov.
+
+### Členovia ŠKAS
+#### Funkčné obdobie 1. júna 2014 -- 31. mája 2016
+
+|-------------------+-------+--------+-----------------------------|
+| Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
+|-------------------|-------|--------|-----------------------------|
+| Bc. Hana Hozzánková | Manažérska matematika |  |
+| Mgr. Ján Hreha | Fyzika |  |
+| Bc. Martin Oberuč  | Ekonomická a finančná matematika |  |
+| <del>Marek Špano</del> | Informatika |  |
+| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda AS (predseda ŠKAS) |
+|------------------+--------+------+------------------------------|
+{: id="members-table"}
+
+#### Funkčné obdobie 1. júna 2014 -- 31. mája 2015
+
+|-------------------+-------+--------+-----------------------------|
+| Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
+|-------------------|-------|--------|-----------------------------|
+| Estilla Alföldiová | Biomedicínska fyzika | podpredsedníčka ŠKAS |
+| Kristína Blašková | Fyzika |  |
+| Bc. Anna Buchholcerová  | Fyzika; meteorológia a klimatológia | členka mandátovej komisie |
+| Bc. Kristína Jablonícká | Ekonomická a finančná matematika |  |
+| Kristína Tomová | Fyzika |  |
+|------------------+--------+------+------------------------------|
+{: id="members-table"}
+
+### Zmeny
+
+* Marekovi Španovi zaniklo členstvo v AS FMFI UK dňa 1. augusta 2014.
+
+
+#### Členovia pre funkčné obdobie 1. júla 2012 -- 31. mája 2014
 
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
@@ -32,7 +66,7 @@ Sme študenti, ktorí sa rozhodli, že chcú vo svojom voľnom čase pracovať n
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
-### Zmeny
+#### Zmeny
 
 * Bc. Gáborovi Szénásimu skončil mandát v AS FMFI UK dňa 4. marca 2013.
 * Bc. Mária Kieferová bola zvolená v doplňujúcich voľbách dňa 11. apríla 2013.
