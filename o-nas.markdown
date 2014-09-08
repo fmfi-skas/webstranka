@@ -24,7 +24,7 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 | Mgr. Ján Hreha | Fyzika |  |
 | Bc. Martin Oberuč  | Ekonomická a finančná matematika |  |
 | <del>Marek Špano</del> | Informatika |  |
-| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda AS (predseda ŠKAS) |
+| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda AS <br>(predseda ŠKAS) |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
@@ -46,7 +46,7 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 * Marekovi Španovi zaniklo členstvo v AS FMFI UK dňa 1. augusta 2014.
 
 
-### Členovia pôsobiaci vo funkčnom období 1. júla 2012 -- 31. mája 2014
+### Členovia pôsobiaci vo funkčnom období 2012 -- 2014
 
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
