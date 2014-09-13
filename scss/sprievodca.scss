@@ -1,9 +1,9 @@
 /* counter for headings */
 .counter h1 {counter-reset: kapitola;}
+.counter h2 {counter-reset: podkapitola;}
 .counter h2:before {
     counter-increment: kapitola;
     content: counter(kapitola) " ";
-    counter-reset: podkapitola;
     counter-reset: tabulka;
 }
 .counter h3:before {
