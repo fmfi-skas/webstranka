@@ -1,6 +1,7 @@
 /* counter for headings */
 .counter h1 {counter-reset: kapitola;}
 .counter h2 {counter-reset: podkapitola;}
+.counter h3 {counter-reset: podpodkapitola;}
 .counter h2:before {
     counter-increment: kapitola;
     content: counter(kapitola) " ";
@@ -9,6 +10,10 @@
 .counter h3:before {
     counter-increment: podkapitola;
     content: counter(kapitola) "." counter(podkapitola) " ";
+}
+.counter h4:before {
+    counter-increment: podpodkapitola;
+    content: counter(kapitola) "." counter(podkapitola) "." counter(podpodkapitola) " ";
 }
 h2.no_toc:before {
     counter-reset: kapitola;
