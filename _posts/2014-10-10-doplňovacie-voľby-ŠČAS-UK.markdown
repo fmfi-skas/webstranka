@@ -31,7 +31,7 @@ Doplňovacie voľby do študentskej časti Akademického senátu UK riadi volebn
 
 ## Informácie pre kandidátov
 
-Návrhy kandidátov sa podávajú osobne ktorémukoľvek členovi volebnej komisie alebo prostredníctvom podateľne fakulty (v obálke s viditeľným označením "ŠČAS") v lehote **do 24. októbra 2014 (piatok) 12:00 hod**.
+Návrhy kandidátov sa podávajú osobne ktorémukoľvek členovi volebnej komisie alebo prostredníctvom podateľne fakulty (v obálke s viditeľným označením "ŠČAS") v lehote **do 24. októbra 2014 (piatok) 12.00 hod**.
 
 Právo navrhovať kandidáta má ktorýkoľvek člen alebo skupina členov akademickej obce fakulty (študent aj zamestnanec). 
 
