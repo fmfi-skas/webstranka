@@ -10,14 +10,14 @@ Návrhy kandidátov je možné podávať do 24. októbra 2014 (piatok) 12.00 hod
 
 ## Termín konania volieb a volebné miesto
 
-**Deň konania volieb:** 29. októbra 2014 (streda)
-**Čas konania volieb:** 10.00 hod. - 16.00 hod.
+**Deň konania volieb:** 29. októbra 2014 (streda)</br>
+**Čas konania volieb:** 10.00 hod. - 16.00 hod.</br>
 **Volebné miesto:** vestibul pri matematickej vrátnici
 
 
 ## Vyhlásenie volieb
 
-Akademický senát UK na svojom zasadnutí dňa 18. júna 2014 vyhlásil doplňovacie voľby do Akademického senátu UK. Volí sa jeden zástupca študentov.  
+Akademický senát UK na svojom zasadnutí dňa 18. júna 2014 vyhlásil doplňovacie voľby do Akademického senátu UK. Volí sa jeden zástupca študentov fakulty.  
 
 Doplňovacie voľby do študentskej časti Akademického senátu UK riadi volebná komisia v zložení:
 
@@ -26,7 +26,7 @@ Doplňovacie voľby do študentskej časti Akademického senátu UK riadi volebn
 * Bc. Anna Buchholcerová (členka)
 * Kristína Tomová (členka)
 
-[Oznam o vyhlásení volieb] (https://drive.google.com/file/d/0BzpLRs_UPeZ4Zy1SbDNYMlhMYkE/view?usp=sharing)
+[Oznam o vyhlásení volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4Zy1SbDNYMlhMYkE/view?usp=sharing)
 
 
 ## Informácie pre kandidátov
