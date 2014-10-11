@@ -1,18 +1,17 @@
 ---
 layout: post
-title: Doplňujúce voľby do ŠČAS UK 
+title: Doplňovacie voľby do ŠČAS UK 
 tags: novinky
 ---
 
-Dňa 29. októbra 2014 nás čakajú doplňovacie voľby do študentskej časti Akademického senátu UK. Voliť budeme jedného zástupcu študentov.
-Návrhy kandidátov je možné podávať do 24. októbra 2014 (piatok) 12.00 hod.
+Dňa 29. októbra 2014 nás čakajú doplňovacie voľby do študentskej časti Akademického senátu UK. Voliť budeme jedného zástupcu študentov. Návrhy kandidátov je možné podávať do 24. októbra 2014 (piatok) 12.00 hod.
 
 
 ## Termín konania volieb a volebné miesto
 
-**Deň konania volieb:** 29. októbra 2014 (streda)</br>
-**Čas konania volieb:** 10.00 hod. - 16.00 hod.</br>
-**Volebné miesto:** vestibul pri matematickej vrátnici
+**Deň konania volieb:** 29. októbra 2014 (streda)<br />
+**Čas konania volieb:** 10.00 hod. - 16.00 hod.<br />
+**Volebné miesto:** vestibul pri matematickej vrátnici<br />
 
 
 ## Vyhlásenie volieb
