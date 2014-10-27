@@ -13,9 +13,9 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 |----------------------+---------------+-------------------------------+------------|
 |  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
 |----------------------|---------------|-------------------------------|------------
-| Askar Gafurov        | bakalársky    | Informatika                            | 2 |
+| [Askar Gafurov](https://docs.google.com/document/d/1ukXX9_SrBiLmnBqcosgemV48HkptNA5vKhEOUhYDDjk/edit?usp=sharing)        | bakalársky    | Informatika                            | 2 |
 | Andrej Ledaj         | bakalársky    | Ekonomická a finančná matematika       | 1 |
-| Mgr. Marek Pleva     | doktorandský  | Fyzika kondenzovaných látok a akustika | 1 |
+| [Mgr. Marek Pleva](https://drive.google.com/file/d/0BzpLRs_UPeZ4TFBmeVlHdGMtU28/view?usp=sharing)     | doktorandský  | Fyzika kondenzovaných látok a akustika | 1 |
 |----------------------+---------------+----------------------------------+---|
 
 [Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4V0dRRndRRC15eDQ/view?usp=sharing)
