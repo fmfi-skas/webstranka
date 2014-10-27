@@ -6,6 +6,21 @@ tags: novinky
 
 Dňa 29. októbra 2014 nás čakajú doplňovacie voľby do študentskej časti Akademického senátu UK. Voliť budeme jedného zástupcu študentov. Návrhy kandidátov je možné podávať do 24. októbra 2014 (piatok) 12.00 hod.
 
+## Kandidátka
+
+K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
+
+|----------------------+---------------+-------------------------------+------------|
+|  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
+|----------------------|---------------|-------------------------------|------------
+| Askar Gafurov        | bakalársky    | Informatika                            | 2 |
+| Andrej Ledaj         | bakalársky    | Ekonomická a finančná matematika       | 1 |
+| Mgr. Marek Pleva     | doktorandský  | Fyzika kondenzovaných látok a akustika | 1 |
+|----------------------+---------------+----------------------------------+---|
+
+[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4V0dRRndRRC15eDQ/view?usp=sharing)
+
+Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
 
 ## Termín konania volieb a volebné miesto
 
