@@ -8,7 +8,7 @@ Dňa 29. októbra 2014 nás čakajú doplňovacie voľby do študentskej časti 
 
 ## Výsledky volieb
 
-Za člena študentskej časti Akademického senátu FMFI na funkčné obdobie do 31. októbra 2015 bol zvolený:
+Za člena študentskej časti Akademického senátu UK na funkčné obdobie do 31. októbra 2015 bol zvolený:
 
 Mgr. Marek Pleva
 
