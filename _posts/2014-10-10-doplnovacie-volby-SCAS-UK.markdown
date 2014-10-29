@@ -6,6 +6,15 @@ tags: novinky
 
 Dňa 29. októbra 2014 nás čakajú doplňovacie voľby do študentskej časti Akademického senátu UK. Voliť budeme jedného zástupcu študentov. Návrhy kandidátov je možné podávať do 24. októbra 2014 (piatok) 12.00 hod.
 
+## Výsledky volieb
+
+Za člena študentskej časti Akademického senátu FMFI na funkčné obdobie do 31. októbra 2015 bol zvolený:
+
+Mgr. Marek Pleva
+
+[Zápisnica z volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4eTExZGtvb1k4Z3M/view?usp=sharing)
+
+
 ## Kandidátka
 
 K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
