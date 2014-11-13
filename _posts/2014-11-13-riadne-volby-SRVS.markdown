@@ -29,7 +29,7 @@ Riadne voľby do ŠRVŠ riadi volebná komisia v zložení:
 
 ## Informácie pre kandidátov
 
-Návrhy kandidátov sa podávajú osobne ktorémukoľvek členovi volebnej komisie alebo prostredníctvom podateľne fakulty (v obálke s viditeľným označením "ŠRVŠ") v lehote **do 3. decembra 2014 (piatok) 12.00 hod**.
+Návrhy kandidátov sa podávajú osobne ktorémukoľvek členovi volebnej komisie alebo prostredníctvom podateľne fakulty (v obálke s viditeľným označením "ŠRVŠ") v lehote **do 28. novembra 2014 (piatok) 12.00 hod**.
 
 Právo navrhovať kandidáta má ktorýkoľvek člen alebo skupina členov akademickej obce fakulty (študent aj zamestnanec). 
 
