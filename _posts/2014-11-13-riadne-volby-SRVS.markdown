@@ -51,8 +51,7 @@ Vzorové dokumenty písomnej časti (návrh aj súhlas) prikladáme vo formáte 
 
 Volebná komisia odporúča, aby kandidáti posielali návrhy (prihlášky) aj v elektronickej podobe na adresu [volby@skas.fmph.uniba.sk](mailto:volby@skas.fmph.uniba.sk) a uviedli e-mailový a telefonický kontakt.
 
-Vítanou súčasťou kandidatúry je **volebný program**, t.j. zoznam vecí, ktoré by kandidát chcel presadzovať či realizovať (vhodne doplnený o fotografiu). Volebné programy kandidátov zverejní volebná komisia na stránke ŠKAS-u a na úradnej výveske AS FMFI UK v pavilóne F1.
-Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
+Vítanou súčasťou kandidatúry je **volebný program**, t.j. zoznam vecí, ktoré by kandidát chcel presadzovať či realizovať (vhodne doplnený o fotografiu). Volebné programy kandidátov zverejní volebná komisia na stránke ŠKAS-u a na úradnej výveske AS FMFI UK v pavilóne F1. Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
 
 Kandidátka bude zverejnená bez zbytočného odkladu po jej uzavretí. 
 
