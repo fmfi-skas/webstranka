@@ -6,6 +6,22 @@ tags: novinky
 
 Dňa 3. decembra 2014 nás čakajú riadne voľby delegáta fakulty v Študentskej rade vysokých škôl. Návrhy kandidátov je možné podávať do 28. novembra 2014 (piatok) 12.00 hod.
 
+## Kandidátka
+
+K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
+
+|----------------------+---------------+-------------------------------+------------|
+|  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
+|----------------------|---------------|-------------------------------|------------
+| [Bc. Jakub Lipták](https://drive.google.com/file/d/0BzpLRs_UPeZ4bUh0aVpNLVBpMUU/view?usp=sharing)        | magisterský    | |Kognitívna veda                            | 1 |
+| Bc. Martin Oberuč         | magisterský    | Ekonomická a finančná matematika       | 1 |
+| Bc. Andrej Popov   | magisterský  | Manažérska matematika | 1 |
+|----------------------+---------------+----------------------------------+---|
+
+[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4VzZCTkdxdDRULW8/view?usp=sharing)
+
+Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
+
 ## Termín konania volieb a volebné miesto
 
 **Deň konania volieb:** 3. decembra 2014 (streda)<br />
