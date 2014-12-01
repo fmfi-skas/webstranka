@@ -14,7 +14,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 |  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
 |----------------------|---------------|-------------------------------|------------
 | [Bc. Jakub Lipták](https://drive.google.com/file/d/0BzpLRs_UPeZ4bUh0aVpNLVBpMUU/view?usp=sharing)        | magisterský    | Kognitívna veda                            | 1 |
-| Bc. Martin Oberuč         | magisterský    | Ekonomická a finančná matematika       | 1 |
+| Bc. Martin Oberuč(https://drive.google.com/file/d/0BzpLRs_UPeZ4SWZaSnBvMGk5am8/view?usp=sharing)         | magisterský    | Ekonomická a finančná matematika       | 1 |
 | Bc. Andrej Popov   | magisterský  | Manažérska matematika | 1 |
 |----------------------+---------------+----------------------------------+---|
 
