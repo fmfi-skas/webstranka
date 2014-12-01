@@ -38,7 +38,8 @@ Riadne voľby do ŠRVŠ riadi volebná komisia v zložení:
 * Bc. Michal Švehlík (predseda)
 * Bc. Dominika Balabánová (členka)
 * Bc. Anna Buchholcerová (členka)
-* RNDr. Róbert Kysel (člen)
+* <s>RNDr. Róbert Kysel (člen)<s>
+* Kristína Tomová (členka)
 
 [Oznam o vyhlásení volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4OHRBN0psaXhZZ3c/view?usp=sharing)
 
