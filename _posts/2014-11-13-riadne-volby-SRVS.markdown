@@ -29,7 +29,7 @@ Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhr
 
 ## Termín konania volieb a volebné miesto
 
-**Deň konania volieb:** 3. decembra 2014 (streda)<br />
+**Deň konania volieb:** <s>3. decembra</s> 8. decembra 2014 (pondelok)<br />
 **Čas konania volieb:** 10.00 hod. - 16.00 hod.<br />
 **Volebné miesto:** vestibul pri matematickej vrátnici<br />
 
