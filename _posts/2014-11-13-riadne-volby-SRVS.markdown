@@ -4,9 +4,11 @@ title: Riadne voľby do ŠRVŠ
 tags: novinky
 ---
 
-Dňa 3. decembra 2014 nás čakajú riadne voľby delegáta fakulty v Študentskej rade vysokých škôl. Návrhy kandidátov je možné podávať do 28. novembra 2014 (piatok) 12.00 hod.
+Dňa <s>3.<s> 8. decembra 2014 nás čakajú riadne voľby delegáta fakulty v Študentskej rade vysokých škôl. Návrhy kandidátov bolo možné podávať do 28. novembra 2014 (piatok) 12.00 hod.
 
 ## Kandidátka
+
+[Zápisnica zo zasadnutia Mandátovej komisie AS FMFI UK dňa 4.12.2014](https://drive.google.com/file/d/0BzpLRs_UPeZ4U3ByQlQ5Y2dMZzQ/view?usp=sharing)
 
 K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
 
@@ -16,9 +18,12 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | [Bc. Jakub Lipták](https://drive.google.com/file/d/0BzpLRs_UPeZ4bUh0aVpNLVBpMUU/view?usp=sharing)        | magisterský    | Kognitívna veda                            | 1 |
 | [Bc. Martin Oberuč](https://drive.google.com/file/d/0BzpLRs_UPeZ4SWZaSnBvMGk5am8/view?usp=sharing)         | magisterský    | Ekonomická a finančná matematika       | 1 |
 | Bc. Andrej Popov   | magisterský  | Manažérska matematika | 1 |
+| Bc. Mária Šormanová   | magisterský  | Informatika | 1 |
 |----------------------+---------------+----------------------------------+---|
 
-[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4VzZCTkdxdDRULW8/view?usp=sharing)
+[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4X0pzd2lWMml0UEE/view?usp=sharing)
+
+Kandidátka bola zverejnená dňa 4. decembra 2014 o 15.00 hod.
 
 Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
 
@@ -36,13 +41,14 @@ Predsedníctvo Akademického senátu FMFI UK na svojom zasadnutí dňa 12. novem
 Riadne voľby do ŠRVŠ riadi volebná komisia v zložení:
 
 * Bc. Michal Švehlík (predseda)
-* Bc. Dominika Balabánová (členka)
+* <s>Bc. Dominika Balabánová (členka)<s>
 * Bc. Anna Buchholcerová (členka)
+* Bc. Hana Hozzánková (členka)
+* Mgr. Ján Hreha (člen)
 * <s>RNDr. Róbert Kysel (člen)<s>
 * Kristína Tomová (členka)
 
 [Oznam o vyhlásení volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4OHRBN0psaXhZZ3c/view?usp=sharing)
-
 
 ## Informácie pre kandidátov
 
