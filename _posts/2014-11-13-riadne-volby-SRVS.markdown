@@ -18,7 +18,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | [Bc. Jakub Lipták](https://drive.google.com/file/d/0BzpLRs_UPeZ4bUh0aVpNLVBpMUU/view?usp=sharing)        | magisterský    | Kognitívna veda                            | 1 |
 | [Bc. Martin Oberuč](https://drive.google.com/file/d/0BzpLRs_UPeZ4SWZaSnBvMGk5am8/view?usp=sharing)         | magisterský    | Ekonomická a finančná matematika       | 1 |
 | Bc. Andrej Popov   | magisterský  | Manažérska matematika | 1 |
-| Bc. Mária Šormanová   | magisterský  | Informatika | 1 |
+| [Bc. Mária Šormanová](https://drive.google.com/file/d/0BzpLRs_UPeZ4WDZaVGRjVDhSVzNmc2ZvTUFWTWU1V0ZuWkdR/view?usp=sharing)   | magisterský  | Informatika | 1 |
 |----------------------+---------------+----------------------------------+---|
 
 [Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4X0pzd2lWMml0UEE/view?usp=sharing)
