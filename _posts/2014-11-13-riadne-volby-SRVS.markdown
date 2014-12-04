@@ -4,7 +4,7 @@ title: Riadne voľby do ŠRVŠ
 tags: novinky
 ---
 
-Dňa <s>3.<s> 8. decembra 2014 nás čakajú riadne voľby delegáta fakulty v Študentskej rade vysokých škôl. Návrhy kandidátov bolo možné podávať do 28. novembra 2014 (piatok) 12.00 hod.
+Dňa <s>3. decembra</s> 8. decembra 2014 nás čakajú riadne voľby delegáta fakulty v Študentskej rade vysokých škôl. Návrhy kandidátov bolo možné podávať do 28. novembra 2014 (piatok) 12.00 hod.
 
 ## Kandidátka
 
