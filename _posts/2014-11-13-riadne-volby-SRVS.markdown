@@ -12,7 +12,7 @@ Za zástupcu študentov fakulty v Študentskej rade vysokých škôl pre volebn�
 
 Bc. Mária Šormanová
 
-Zápisnica z volieb[strana1](https://drive.google.com/file/d/0BzpLRs_UPeZ4M0RxdG16VGxCNTA/view?usp=sharing)[strana2](https://drive.google.com/file/d/0BzpLRs_UPeZ4Z1pOaUZQYXV2QVU/view?usp=sharing)
+Zápisnica z volieb: [strana1](https://drive.google.com/file/d/0BzpLRs_UPeZ4M0RxdG16VGxCNTA/view?usp=sharing)[strana2](https://drive.google.com/file/d/0BzpLRs_UPeZ4Z1pOaUZQYXV2QVU/view?usp=sharing)
 
 
 ## Kandidátka
