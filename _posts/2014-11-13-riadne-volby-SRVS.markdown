@@ -6,6 +6,15 @@ tags: novinky
 
 Dňa <s>3. decembra</s> 8. decembra 2014 nás čakajú riadne voľby delegáta fakulty v Študentskej rade vysokých škôl. Návrhy kandidátov bolo možné podávať do 28. novembra 2014 (piatok) 12.00 hod.
 
+## Výsledky volieb
+
+Za zástupcu študentov fakulty v Študentskej rade vysokých škôl pre volebné obdobie 2014 - 2016 bola zvolená:
+
+Bc. Mária Šormanová
+
+Zápisnica z volieb[strana1](https://drive.google.com/file/d/0BzpLRs_UPeZ4M0RxdG16VGxCNTA/view?usp=sharing)[strana2](https://drive.google.com/file/d/0BzpLRs_UPeZ4Z1pOaUZQYXV2QVU/view?usp=sharing)
+
+
 ## Kandidátka
 
 [Zápisnica zo zasadnutia Mandátovej komisie AS FMFI UK dňa 4.12.2014](https://drive.google.com/file/d/0BzpLRs_UPeZ4U3ByQlQ5Y2dMZzQ/view?usp=sharing)
