@@ -4,7 +4,7 @@ title: Riadne voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 11. a 12. mája 2015 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie (2015 - 2017). Voliť budeme piatich študentských senátorov. Návrhy kandidátov je možné podávať do 4. mája (pondelok) 12.00 hod.
+V dňoch 11. a 12. mája 2015 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie (2015 - 2017). Voliť budeme piatich študentských senátorov. Návrhy kandidátov je možné podávať do 4. mája 2015 (pondelok) 12.00 hod.
 
 ## Vyhlásenie volieb
 
