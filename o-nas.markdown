@@ -20,12 +20,12 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
 |-------------------|-------|--------|-----------------------------|
-| Bc. Dominika Balabánová | Manažérska matematika | členka Koncepčnej a právnej komisie AS </br> členka Pedagogickej komisie AS |
+| Bc. Dominika Balabánová | Manažérska matematika | členka Koncepčnej a právnej komisie AS, členka Pedagogickej komisie AS |
 | Bc. Hana Hozzánková | Manažérska matematika |  |
 | <del>Mgr. Ján Hreha<del> | Fyzika |  |
 | Bc. Martin Oberuč  | Ekonomická a finančná matematika |  |
 | <del>Marek Špano</del> | Informatika |  |
-| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda ŠKAS </br> člen Komisie AS pre hospodárenie a rozvoj |
+| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda ŠKAS, člen Komisie AS pre hospodárenie a rozvoj |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
@@ -34,10 +34,10 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
 |-------------------|-------|--------|-----------------------------|
-| Estilla Alföldiová | Biomedicínska fyzika | podpredsedníčka AS </br> predsednička ŠKAS |
+| Estilla Alföldiová | Biomedicínska fyzika | podpredsedníčka AS, predsednička ŠKAS |
 | Kristína Blašková | Fyzika |  |
 | Bc. Anna Buchholcerová  | Fyzika; meteorológia a klimatológia | členka Mandátovej komisie AS |
-| Bc. Kristína Jablonická | Ekonomická a finančná matematika | členka Mandátovej komisie AS </br> členka Pedagogickej komisie AS  |
+| Bc. Kristína Jablonická | Ekonomická a finančná matematika | členka Mandátovej komisie AS, členka Pedagogickej komisie AS  |
 | Kristína Tomová | Fyzika |  |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
