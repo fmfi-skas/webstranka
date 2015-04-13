@@ -20,11 +20,12 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
 |-------------------|-------|--------|-----------------------------|
+| Bc. Dominika Balabánová | Manažérska matematika | členka Koncepčnej a právnej komisie AS </br> členka Pedagogickej komisie AS |
 | Bc. Hana Hozzánková | Manažérska matematika |  |
-| Mgr. Ján Hreha | Fyzika |  |
+| <del>Mgr. Ján Hreha<del> | Fyzika |  |
 | Bc. Martin Oberuč  | Ekonomická a finančná matematika |  |
 | <del>Marek Špano</del> | Informatika |  |
-| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda AS <br>(predseda ŠKAS) |
+| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda ŠKAS </br> člen Komisie AS pre hospodárenie a rozvoj |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
@@ -33,10 +34,10 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
 |-------------------|-------|--------|-----------------------------|
-| Estilla Alföldiová | Biomedicínska fyzika | podpredsedníčka ŠKAS |
+| Estilla Alföldiová | Biomedicínska fyzika | podpredsedníčka AS </br> predsednička ŠKAS |
 | Kristína Blašková | Fyzika |  |
-| Bc. Anna Buchholcerová  | Fyzika; meteorológia a klimatológia | členka mandátovej komisie |
-| Bc. Kristína Jablonícká | Ekonomická a finančná matematika |  |
+| Bc. Anna Buchholcerová  | Fyzika; meteorológia a klimatológia | členka Mandátovej komisie AS |
+| Bc. Kristína Jablonická | Ekonomická a finančná matematika | členka Mandátovej komisie AS </br> členka Pedagogickej komisie AS  |
 | Kristína Tomová | Fyzika |  |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
@@ -44,6 +45,8 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 ### Zmeny
 
 * Marekovi Španovi zaniklo členstvo v AS FMFI UK dňa 1. augusta 2014.
+* Bc. Dominike Balabánovej vzniklo členstvo v AS FMFI UK dňa 22. septembra 2014.
+* Mgr. Jánovi Hrehovi zaniklo členstvo v AS FMFI UK dňa 30. marca 2015.
 
 
 ### Členovia pôsobiaci vo funkčnom období 2012 -- 2014
