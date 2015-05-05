@@ -4,7 +4,35 @@ title: Riadne voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 11. a 12. mája 2015 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie (2015 - 2017). Voliť budeme piatich študentských senátorov. Návrhy kandidátov je možné podávať do 4. mája 2015 (pondelok) 12.00 hod.
+V dňoch 11. a 12. mája 2015 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie (2015 - 2017). Voliť budeme piatich študentských senátorov. Návrhy kandidátov bolo možné podávať do 4. mája 2015 (pondelok), 12.00 hod.
+
+## Čas konania volieb a volebné miesto
+
+**Čas konania volieb:** 09.00 hod. - 16.00 hod.
+**Volebné miesto:** vestibul pri matematickej vrátnici
+
+## Kandidátka
+
+K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
+
+|----------------------+---------------+-------------------------------+------------|
+|  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
+|----------------------|---------------|-------------------------------|------------
+| Estilla Alföldiová   | bakalársky    | Biomedicínska fyzika          | 3 |
+| Ticián Babka  | bakalársky    | Fyzika         | 1 |
+| Bc. Anna Bucholcerová    | magisterský    | Meteorológia a klimatológia                        | 2 |
+| Július Gálik | bakalársky  | Fyzika   | 3 |
+| Askar Gafurov  | bakalársky   | Informatika       | 2 |
+| Mgr. František Herman  | doktorandský   | Všeobecná fyzika a matematická fyzika         | 2 |
+| Bc. Štefan Krakovský       | magisterský  | Ekonomická a finančná matematika | 1 |
+| Bc. Petra Kubincová  | magisterský   | Informatika | 1 |
+| Kristína Tomová   | bakalársky    | Fyzika                           | 2 |
+| Anna Vargová        | magisterský    | Manažérska matematika | 1 |
+|----------------------+---------------+----------------------------------+---|
+
+[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4YmVveUR0QWxWTDg/view?usp=sharing)
+
+Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
 
 ## Vyhlásenie volieb
 
