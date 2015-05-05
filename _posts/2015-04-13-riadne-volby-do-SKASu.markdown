@@ -27,7 +27,7 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 | Bc. Štefan Krakovský       | magisterský  | Ekonomická a finančná matematika | 1 |
 | Bc. Petra Kubincová  | magisterský   | Informatika | 1 |
 | Kristína Tomová   | bakalársky    | Fyzika                           | 2 |
-| Anna Vargová        | magisterský    | Manažérska matematika | 1 |
+| Bc. Anna Vargová        | magisterský    | Manažérska matematika | 1 |
 |----------------------+---------------+----------------------------------+---|
 
 [Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4YmVveUR0QWxWTDg/view?usp=sharing)
