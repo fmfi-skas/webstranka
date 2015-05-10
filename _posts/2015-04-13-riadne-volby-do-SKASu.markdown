@@ -19,11 +19,11 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 |  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
 |----------------------|---------------|-------------------------------|------------
 | Estilla Alföldiová   | bakalársky    | Biomedicínska fyzika          | 3 |
-| Ticián Babka  | bakalársky    | Fyzika         | 1 |
+| [Ticián Babka](https://drive.google.com/file/d/0BzpLRs_UPeZ4N2NLdElURjl1SGM/view?usp=sharing)  | bakalársky    | Fyzika         | 1 |
 | Bc. Anna Bucholcerová    | magisterský    | Meteorológia a klimatológia                        | 2 |
 | Július Gálik | bakalársky  | Fyzika   | 3 |
 | Askar Gafurov  | bakalársky   | Informatika       | 2 |
-| Mgr. František Herman  | doktorandský   | Všeobecná fyzika a matematická fyzika         | 2 |
+| [Mgr. František Herman](https://drive.google.com/file/d/0BzpLRs_UPeZ4blc1UHVQS3ZiTWc/view?usp=sharing)  | doktorandský   | Všeobecná fyzika a matematická fyzika         | 2 |
 | Bc. Štefan Krakovský       | magisterský  | Ekonomická a finančná matematika | 1 |
 | Bc. Petra Kubincová  | magisterský   | Informatika | 1 |
 | Kristína Tomová   | bakalársky    | Fyzika                           | 2 |
