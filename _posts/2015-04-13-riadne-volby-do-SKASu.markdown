@@ -20,14 +20,14 @@ K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia na
 |----------------------|---------------|-------------------------------|------------
 | Estilla Alföldiová   | bakalársky    | Biomedicínska fyzika          | 3 |
 | [Ticián Babka](https://drive.google.com/file/d/0BzpLRs_UPeZ4N2NLdElURjl1SGM/view?usp=sharing)  | bakalársky    | Fyzika         | 1 |
-| Bc. Anna Bucholcerová    | magisterský    | Meteorológia a klimatológia                        | 2 |
+| [Bc. Anna Bucholcerová](https://drive.google.com/file/d/0BzpLRs_UPeZ4czJYR3dCWDFOeDQ/view?usp=sharing)    | magisterský    | Meteorológia a klimatológia                        | 2 |
 | Július Gálik | bakalársky  | Fyzika   | 3 |
 | Askar Gafurov  | bakalársky   | Informatika       | 2 |
 | [Mgr. František Herman](https://drive.google.com/file/d/0BzpLRs_UPeZ4blc1UHVQS3ZiTWc/view?usp=sharing)  | doktorandský   | Všeobecná fyzika a matematická fyzika         | 2 |
-| Bc. Štefan Krakovský       | magisterský  | Ekonomická a finančná matematika | 1 |
-| Bc. Petra Kubincová  | magisterský   | Informatika | 1 |
+| [Bc. Štefan Krakovský](https://drive.google.com/file/d/0BzpLRs_UPeZ4WnhzR1ROaElyUWM/view?usp=sharing)       | magisterský  | Ekonomická a finančná matematika | 1 |
+| [Bc. Petra Kubincová](https://drive.google.com/file/d/0BzpLRs_UPeZ4X1Via3RPM3ZteXc/view?usp=sharing)  | magisterský   | Informatika | 1 |
 | Kristína Tomová   | bakalársky    | Fyzika                           | 2 |
-| Bc. Anna Vargová        | magisterský    | Manažérska matematika | 1 |
+| [Bc. Anna Vargová](https://drive.google.com/file/d/0BzpLRs_UPeZ4WnhzR1ROaElyUWM/view?usp=sharing)        | magisterský    | Manažérska matematika | 1 |
 |----------------------+---------------+----------------------------------+---|
 
 [Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4YmVveUR0QWxWTDg/view?usp=sharing)
