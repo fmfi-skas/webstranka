@@ -13,7 +13,7 @@ Za členov študentskej komory Akademického senátu FMFI UK na funkčné obdobi
 1. Bc. Petra Kubincová
 2. Mgr. František Herman
 3. Bc. Anna Buchholcerová
-4. Bc. Anna Vargová, Bc. Štefan Krakovský (rovnaký počet platných hlasov)
+4. Bc. Anna Vargová, Bc. Štefan Krakovský *(rovnaký počet platných hlasov)*
 
 Náhradníkmi sú v poradí:
 
