@@ -18,7 +18,7 @@ Za členov študentskej komory Akademického senátu FMFI UK na funkčné obdobi
 
 Náhradníkmi sú v poradí:
 
-6.Ticián Babka
+6. Ticián Babka
 7. Estilla Alföldiová
 8. Askar Gafurov
 9. Július Gálik
