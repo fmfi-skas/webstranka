@@ -25,6 +25,8 @@ Náhradníkmi sú v poradí:
 
 [Zápisnica z volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4OUZZY1BiVUlibTg/view?usp=sharing)
 
+*Námietky voči priebehu a výsledkom volieb sa v súlade s čl. 25 ods. 1 Zásad volieb do Akademického senátu FMFI UK podávajú písomnou formou v elektronickej podobe prostredníctvom fakultnej elektronickej pošty predsedovi Mandátovej komisie AS FMFI UK [as.mandatova@fmph.uniba.sk](mailto:as.mandatova@fmph.uniba.sk)  do siedmich kalendárnych dní od zverejnenia zápisnice na webovom sídle fakulty, t.j. do 19. mája 2015 (utorok).*
+
 ## Čas konania volieb a volebné miesto
 
 **Čas konania volieb:** 09.00 hod. - 16.00 hod.
