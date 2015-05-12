@@ -13,16 +13,15 @@ Za členov študentskej komory Akademického senátu FMFI UK na funkčné obdobi
 1. Bc. Petra Kubincová
 2. Mgr. František Herman
 3. Bc. Anna Buchholcerová
-4.-5. Bc. Anna Vargová
-4.-5. Bc. Štefan Krakovský
+4.-5. Bc. Anna Vargová, Bc. Štefan Krakovský 
 
 Náhradníkmi sú v poradí:
 
-6. Ticián Babka
-7. Estilla Alföldiová
-8. Askar Gafurov
-9. Július Gálik
-10. Kristína Tomová
+1. Ticián Babka
+2. Estilla Alföldiová
+3. Askar Gafurov
+4. Július Gálik
+5. Kristína Tomová
 
 [Zápisnica z volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4OUZZY1BiVUlibTg/view?usp=sharing)
 
