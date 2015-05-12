@@ -4,7 +4,27 @@ title: Riadne voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 11. a 12. mája 2015 nás čakajú riadne voľby do ŠKAS-u na nové funkčné obdobie (2015 - 2017). Voliť budeme piatich študentských senátorov. Návrhy kandidátov bolo možné podávať do 4. mája 2015 (pondelok), 12.00 hod.
+V dňoch 11. a 12. mája 2015 sa uskutočnili riadne voľby do ŠKAS-u na nové funkčné obdobie (2015 - 2017). Volilo sa päť študentských senátorov. Návrhy kandidátov bolo možné podávať do 4. mája 2015 (pondelok), 12.00 hod.
+
+## Výsledky volieb
+
+Za členov študentskej komory Akademického senátu FMFI UK na funkčné obdobie od 1. júna 2015 do 31. mája 2017 boli zvolení:
+
+1. Bc. Petra Kubincová
+2. Mgr. František Herman
+3. Bc. Anna Buchholcerová
+4.-5. Bc. Anna Vargová
+4.-5. Bc. Štefan Krakovský
+
+Náhradníkmi sú v poradí:
+
+6.Ticián Babka
+7. Estilla Alföldiová
+8. Askar Gafurov
+9. Július Gálik
+10. Kristína Tomová
+
+[Zápisnica z volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4OUZZY1BiVUlibTg/view?usp=sharing)
 
 ## Čas konania volieb a volebné miesto
 
