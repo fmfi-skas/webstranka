@@ -15,21 +15,42 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 
 ## Členovia ŠKAS
 
+### Funkčné obdobie 1. júna 2015 -- 31. mája 2017
+
+|-------------------+-------+--------+-----------------------------|
+| Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
+|-------------------|-------|--------|-----------------------------|
+| Mgr. Anna Buchholcerová | Meteorológia a klimatológia | členka Koncepčnej a právnej komisie AS, členka Mandátovej komisie AS |
+| Mgr. František Herman | Všeobecná fyzika a matematická fyzika | člen Komisie AS pre hospodárenie a rozvoj, člen Pedagogickej komisie AS |
+| Bc. Štefan Krakovský | Ekonomická a finančná matematika | člen Komisie AS pre hospodárenie a rozvoj, člen Pedagogickej komisie AS |
+| Bc. Petra Kubincová  | Informatika | členka Pedagogickej komisie AS  |
+| Bc. Anna Vargová | Manažérska matematika | členka Mandátovej komisie AS |
+|------------------+--------+------+------------------------------|
+{: id="members-table"}
+
 ### Funkčné obdobie 1. júna 2014 -- 31. mája 2016
 
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
 |-------------------|-------|--------|-----------------------------|
-| Bc. Dominika Balabánová | Manažérska matematika | členka Koncepčnej a právnej komisie AS, členka Pedagogickej komisie AS |
-| Bc. Hana Hozzánková | Manažérska matematika |  |
+| Bc. Dominika Balabánová | Manažérska matematika | podpredsedníčka ŠKAS, členka Koncepčnej a právnej komisie AS, členka Pedagogickej komisie AS |
+| <del>Bc. Hana Hozzánková<del> | Manažérska matematika |  |
 | <del>Mgr. Ján Hreha<del> | Fyzika |  |
-| Bc. Martin Oberuč  | Ekonomická a finančná matematika |  |
+| <del>Bc. Martin Oberuč</del>  | Ekonomická a finančná matematika |  |
 | <del>Marek Špano</del> | Informatika |  |
-| Bc. Michal Švehlík | Ekonomická a finančná matematika | podpredseda ŠKAS, člen Komisie AS pre hospodárenie a rozvoj |
+| Bc. Michal Švehlík | Ekonomická a finančná matematika | predseda ŠKAS, člen Komisie AS pre hospodárenie a rozvoj |
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
-### Funkčné obdobie 1. júna 2014 -- 31. mája 2015
+### Zmeny
+
+* Marekovi Španovi zaniklo členstvo v AS FMFI UK dňa 1. augusta 2014.
+* Bc. Dominike Balabánovej vzniklo členstvo v AS FMFI UK dňa 22. septembra 2014.
+* Mgr. Jánovi Hrehovi zaniklo členstvo v AS FMFI UK dňa 30. marca 2015.
+* Mgr. Hane Hozzánkovej zaniklo členstvo v AS FMFI UK dňa 25. júna 2015.
+* Bc. Martinovi Oberučovi zaniklo členstvo v AS FMFI UK dňa 21. septembra 2015.
+
+### Členovia ŠKAS pôsobiaci vo funkčnom období 1. júna 2014 -- 31. mája 2015
 
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
@@ -42,14 +63,7 @@ Funkčné obdobie členov ŠKAS je dvojročné, každý rok sa volí jedna polov
 |------------------+--------+------+------------------------------|
 {: id="members-table"}
 
-### Zmeny
-
-* Marekovi Španovi zaniklo členstvo v AS FMFI UK dňa 1. augusta 2014.
-* Bc. Dominike Balabánovej vzniklo členstvo v AS FMFI UK dňa 22. septembra 2014.
-* Mgr. Jánovi Hrehovi zaniklo členstvo v AS FMFI UK dňa 30. marca 2015.
-
-
-### Členovia pôsobiaci vo funkčnom období 2012 -- 2014
+### Členovia pôsobiaci vo funkčnom období 1. júla 2012 -- 30. júna 2014
 
 |-------------------+-------+--------+-----------------------------|
 | Meno a priezvisko | Odbor | Pôsobisko v rámci AS                 |
