@@ -54,11 +54,11 @@ Môže sa zdať, že sú to pomerne jednoduché veci, nie je tomu však tak. Ka�
 
 Toľko aby ste mali predstavu o čom je ŠKAS v posledných rokoch a teraz zopár odpovedí na najčastejšie otázky:
 
-„vysledky ich cinnosti nie su transparentne“, „Dávajte o sebe viac vedieť - nielen pred voľbami“
+* „vysledky ich cinnosti nie su transparentne“, „Dávajte o sebe viac vedieť - nielen pred voľbami“ *
 
 Ako som už spomínal vyššie s komunikáciou je to zložité. Na jednej strane informácie z oficiálnych povinností nájdete v zápisniciach na stránke. Väčšinu neoficiálnych, dobrovoľných aktivít pre študentov zverejňujeme na fb stránke MatfyzJeIn. Aj napriek tomu chceme v tomto semestri skúsiť nový formát informovania priebežne, ako aj konzultačné hodiny pre študentov, aby presne vedeli, kedy nás zastihnú a môžu tak tlmočiť svoj problém/nápad, ktorý by radi vyriešili.
 
- „Jj, to sú tí, čo už pred rokmi sľubovali striešky nad bicyklové stojisko vo fyzike...tí, čo už roky riešia MYDLO na matfyze...MYDLO, ano? Ako mám mať dôveru že riešia niečo dôležité, keď nevedia vyriešiť mydlo?“
+* „Jj, to sú tí, čo už pred rokmi sľubovali striešky nad bicyklové stojisko vo fyzike...tí, čo už roky riešia MYDLO na matfyze...MYDLO, ano? Ako mám mať dôveru že riešia niečo dôležité, keď nevedia vyriešiť mydlo?“ *
  
 Striešky – áno, keď ŠKAS plánoval nové stojisko pre bicykle pred F počítali sme aj so zastrešením. Nanešťastie nám bolo tlmočené od kompetentných, že skôr ako sa neopraví fasáda sa nič také montovať nebude a bodka, takže s týmto nevieme pohnúť.
 
@@ -66,11 +66,11 @@ Mydlo – Zdá sa to ako banalita? Na matfyze obrovský problém! Už viac ako r
 
 Dôvera – áno, niekedy je oveľa jednoduchšie vyrokovať odborové motivačné štipendium pre 50% prvákov ako vyriešiť mydlo, tak preto.
 
-„Spočiatku som si myslel, že sú fajn, ale týchto ľudí zaujíma len "letná brigáda v relaxe" a podobné sprostosti. Od študentskej komory by som požadoval, aby sa venovala viac študentom, aby pôsobili ako nejakí mediátori medzi študentmi a fakultou.“
+* „Spočiatku som si myslel, že sú fajn, ale týchto ľudí zaujíma len "letná brigáda v relaxe" a podobné sprostosti. Od študentskej komory by som požadoval, aby sa venovala viac študentom, aby pôsobili ako nejakí mediátori medzi študentmi a fakultou.“ *
 
 Kde začať. Je mi ľúto, že diskutujúci považuje naše dobrovoľné aktivity za sprostosti, my ich však považujeme za prínosné pre spoločnosť. Čo sa týka venovania sa študentom, byť mediátorom – áno, to je naša práca a myslíme si, že ju robíme celkom dobre. Musíte si však uvedomiť, že škas je len 10 študentov, preto nedokážeme pokryť ani všetky študijné programy, nie to ešte všetky predmety. Preto ak nám o svojom probléme nepoviete, nenapíšete, neodkážete po niekom... my ho nemôžeme vyriešiť. Za celý rok dostaneme minimum podnetov od študentov a pýtať sa náhodne okoloidúcich či sú spokojní a čo chcú zmeniť je trochu príliš.
 
-Prečo ŠKAS viac neapeuluje na vedenie, aby podalo relevantné vyjadrenie k výsledkom ankety? Prečo nerieši problémy študentov aj v iných ako kultúrno-spoločenských smeroch?
+* Prečo ŠKAS viac neapeuluje na vedenie, aby podalo relevantné vyjadrenie k výsledkom ankety? Prečo nerieši problémy študentov aj v iných ako kultúrno-spoločenských smeroch? *
 
 Úplne nerozumiem otázke. Podľa mojich informácii  a skúseností p.Dekan vždy podá vyjadrenie k ankete. To či sa každý z 500 vyučujúcich vyjadril a či relevantne my nevieme posúdiť. Opäť je loptička na vašej strane aby ste sa ozvali nám alebo priamo kompetentným nech to riešia. Odpoveď na druhú otázku je rovnaká – problémy o ktorých nevieme nemôžeme riešiť.
 
