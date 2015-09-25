@@ -6,8 +6,8 @@ tags: novinky
 
 Vyjadrenie Študentskej komory Akademického senátu FMFI UK k študentskej ankete za obdobie letného semestra akad. roka 2014/15.
 
-Milí študenti,
-V prvom rade sa vám chcem v mene ŠKAS-u poďakovať, že ste sa zúčastnili na hlasovaní v študentskej ankete, je to pre nás veľmi dôležité ako spätná väzba. Rovnako som rád, že v kometároch už neprevažujú poznámky typu: „Aká komora?“ a viacerí ste si všimli aj niektorú z našich aktivít. Druhou stranou mince väčšieho povedomia je ale aj väčšia kritika, ktorá sa pod naším hodnotením zbiera, preto by som rád v mene ŠKAS-u odpovedal na najčastejšie a niekedy aj pre nás najzarážajúcejšie otázky a pripomienky.
+Milí študenti,<br/> 
+v prvom rade sa vám chcem v mene ŠKAS-u poďakovať, že ste sa zúčastnili na hlasovaní v študentskej ankete, je to pre nás veľmi dôležité ako spätná väzba. Rovnako som rád, že v kometároch už neprevažujú poznámky typu: „Aká komora?“ a viacerí ste si všimli aj niektorú z našich aktivít. Druhou stranou mince väčšieho povedomia je ale aj väčšia kritika, ktorá sa pod naším hodnotením zbiera, preto by som rád v mene ŠKAS-u odpovedal na najčastejšie a niekedy aj pre nás najzarážajúcejšie otázky a pripomienky.
 
 ## Na prvom mieste by som rád uviedol na pravú mieru práva a povinnosti ŠKAS-u
 
@@ -78,6 +78,5 @@ Ak ste sa dočítali až sem tak Vám ďakujem za trpezlivosť a želám veľa 
 
 Za ŠKAS
 
-Bc. Michal Švehlík
-
+Bc. Michal Švehlík<br/> 
 podpredseda AS FMFI UK, predseda ŠKAS
