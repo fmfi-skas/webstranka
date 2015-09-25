@@ -4,19 +4,28 @@ title: Vyjadrenie ŠKAS k študentskej ankete LS 2014/15
 tags: novinky
 ---
 
+Vyjadrenie Študentskej komory Akademického senátu FMFI UK k študentskej ankete za obdobie letného semestra akad. roka 2014/15.
+
 Milí študenti,
 V prvom rade sa vám chcem v mene ŠKAS-u poďakovať, že ste sa zúčastnili na hlasovaní v študentskej ankete, je to pre nás veľmi dôležité ako spätná väzba. Rovnako som rád, že v kometároch už neprevažujú poznámky typu: „Aká komora?“ a viacerí ste si všimli aj niektorú z našich aktivít. Druhou stranou mince väčšieho povedomia je ale aj väčšia kritika, ktorá sa pod naším hodnotením zbiera, preto by som rád v mene ŠKAS-u odpovedal na najčastejšie a niekedy aj pre nás najzarážajúcejšie otázky a pripomienky.
-Na prvom mieste by som rád uviedol na pravú mieru práva a povinnosti ŠKAS-u
+
+## Na prvom mieste by som rád uviedol na pravú mieru práva a povinnosti ŠKAS-u
+
 Študentská komora akademického senátu je 10 volených zástupcov študentov v 30 člennom Akademickom senáte FMFI (AS). Akademický senát je niečo ako parlament (má svoje komisie ako Hospodársku, Právnu, Pedagogickú atď.) a vedenie fakulty ako vláda. Vedenie predkladá návrhy a senát o nich rokuje a schvaľuje. 
+
 Povinnosťou ŠKAS-u je:
 zúčastňovať sa na zasadnutiach senátu 
 prerokovávať návrhy v komisiách 
 prezentovať názory študentov na predkladané zmeny 
+
 Práva ŠKAS-u sú:
 pozícia podpredsedu senátu
 hosťovať na zasadnutiach vedenia fakulty
+
 To je v skratke všetko. To či si ŠKAS plní svoje povinnosti sa môžete dočítať zo zápisníc zo zasadaní AS a zo zápisníc z vedenia fakulty, ktoré sú zverejnené na stránke fakulty. Je pravda, že by sme o záveroch zo zasadaní mohli viac informovať študentov aj inou cestou, na druhej strane už na pár e-mailov, ktoré za semester pošleme nám prichádzajú rozhorčené reakcie, ako „nemáme spamovať“ a  „prosím vymažte ma zo zoznamu adresátov“, takže je to vždy ťažké nájsť adekvátne prostriedky.
-Vízia ŠKAS-u od roku 2013
+
+##Vízia ŠKAS-u od roku 2013
+
 	Koncom roka 2012 sme sa v ŠKAS-e rozhodli, že posunieme našu funkciu na vyššiu úroveň nad rámec našich práv a povinností. Zhodli sme sa, že MatFyzu chýba atmosféra, veľká časť štandardného vybavenia modernej vysokej školy ako aj podujatia, ktoré by vytvárali kolektív a nové priateľstvá aj medzi odbormi nie len v krúžkoch. 
 V znamení tejto vízie sme sa posledné dva roky snažili zlepšovať spomenuté podmienky na fakulte. Za toto obdobie sa nám v rámci dobrovoľnej aktivity podarilo (chronologicky):
 Kobka – sprístupnenie nevyužitých priestorov na fakulte pre stretávanie sa študentov
