@@ -8,13 +8,13 @@ V dňoch 19. a 20. októbra 2015 sa uskutočnia doplňujúce voľby do ŠKAS-u n
 
 ## Dni a čas konania volieb a volebné miesto
 
-**Dni konania volieb:** 19. a 20. októbra 2015 (pondelok a utorok)
-**Čas konania volieb:** 10.00 hod. - 16.00 hod.
-**Volebné miesto:** vestibul pri matematickej vrátnici
+**Dni konania volieb:** 19. a 20. októbra 2015 (pondelok a utorok)<br/>
+**Čas konania volieb:** 10.00 hod. - 16.00 hod.<br/>
+**Volebné miesto:** vestibul pri matematickej vrátnici<br/>
 
 ## Kandidátka
 
-K termínu stanovenému pre podávanie návrhov kandidátov obdržala volebná komisia neobdržala žiaden návrh.
+K termínu stanovenému pre podávanie návrhov kandidátov obdržala volebná komisia neobdržala žiaden návrh.<br/>
 [Zápisnica volebnej komisie](https://drive.google.com/file/d/0BzpLRs_UPeZ4MU1oNVF0V3Jralk/view?usp=sharing)
 
 [Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4TUlDU0RUeWNEODg/view?usp=sharing)
