@@ -15,7 +15,7 @@ V dňoch 19. a 20. októbra 2015 sa uskutočnia doplňujúce voľby do ŠKAS-u n
 ## Kandidátka
 
 K termínu stanovenému pre podávanie návrhov kandidátov obdržala volebná komisia neobdržala žiaden návrh.
-[Zápisnica volebnej komisie](https://drive.google.com/file/d/0BzpLRs_UPeZ4OS1WWGR5Qjd0YVE/view?usp=sharing)
+[Zápisnica volebnej komisie](https://drive.google.com/file/d/0BzpLRs_UPeZ4MU1oNVF0V3Jralk/view?usp=sharing)
 
 [Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4TUlDU0RUeWNEODg/view?usp=sharing)
 
