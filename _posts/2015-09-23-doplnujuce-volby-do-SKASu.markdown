@@ -4,7 +4,22 @@ title: Doplňujúce voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 19. a 20. októbra 2015 sa uskutočnia doplňujúce voľby do ŠKAS-u na funkčné obdobie do 31. mája 2016. Volia sa traja študentskí senátori. Návrhy kandidátov je možné podávať do 12. októbra 2015 (pondelok), 12.00 hod.
+V dňoch 19. a 20. októbra 2015 sa uskutočnia doplňujúce voľby do ŠKAS-u na funkčné obdobie do 31. mája 2016. Volia sa traja študentskí senátori. Návrhy kandidátov bolo možné podávať do 12. októbra 2015 (pondelok), 12.00 hod.
+
+## Dni a čas konania volieb a volebné miesto
+
+**Dni konania volieb:** 19. a 20. októbra 2015 (pondelok a utorok)
+**Čas konania volieb:** 10.00 hod. - 16.00 hod.
+**Volebné miesto:** vestibul pri matematickej vrátnici
+
+## Kandidátka
+
+K termínu stanovenému pre podávanie návrhov kandidátov obdržala volebná komisia neobdržala žiaden návrh.
+[Zápisnica volebnej komisie](https://drive.google.com/file/d/0BzpLRs_UPeZ4OS1WWGR5Qjd0YVE/view?usp=sharing)
+
+[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4TUlDU0RUeWNEODg/view?usp=sharing)
+
+Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
 
 ## Vyhlásenie volieb
 
