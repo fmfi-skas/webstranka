@@ -13,11 +13,16 @@ V dňoch 19. a 20. októbra 2015 sa uskutočnia doplňujúce voľby do ŠKAS-u n
 **Volebné miesto:** vestibul pri matematickej vrátnici<br/>
 
 ## Kandidátka
+K termínu stanovenému pre podávanie prihlášok obdržala volebná komisia nasledovné návrhy kandidátov:
 
-K termínu stanovenému pre podávanie návrhov kandidátov volebná komisia neobdržala žiaden návrh.<br/>
-[Zápisnica volebnej komisie](https://drive.google.com/file/d/0BzpLRs_UPeZ4MU1oNVF0V3Jralk/view?usp=sharing)
+|----------------------+---------------+-------------------------------+------------|
+|  Meno a priezvisko   | Stupeň štúdia | Študijný program              | Rok štúdia |
+|----------------------|---------------|-------------------------------|------------
+| Estilla Alföldiová   | bakalársky    | Biomedicínska fyzika          | 4 |
+| Askar Gafurov  | bakalársky   | Informatika       | 3 |
+|----------------------+---------------+----------------------------------+---|
 
-[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4TUlDU0RUeWNEODg/view?usp=sharing)
+[Kandidátka](https://drive.google.com/file/d/0BzpLRs_UPeZ4WlR6Q3lLODZGNWc/view?usp=sharing)
 
 Kandidáti majú právo umiestňovať svoje volebné programy (plagáty) na vyhradených nástenkách pri vchodoch do fakulty a na webovom sídle ŠKAS-u.
 
