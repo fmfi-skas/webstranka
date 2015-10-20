@@ -17,7 +17,7 @@ V doplňujúcich voľbách na tri uprázdnené mandáty kandidovali len dvaja ka
 
 [Zápisnica z volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4Z0JCNG5IV2lJUDg/view?usp=sharing)
 
-*Námietky voči priebehu a výsledkom volieb alebo zneniu zápisnice sa v súlade s čl. 25 ods. 1 Zásad volieb do Akademického senátu FMFI UK podávajú písomnou formou v elektronickej podobe prostredníctvom fakultnej elektronickej pošty predsedovi Mandátovej komisie AS FMFI UK [as.mandatova@fmph.uniba.sk](mailto:as.mandatova@fmph.uniba.sk)  do siedmich kalendárnych dní od zverejnenia zápisnice na webovom sídle fakulty, t.j. do 19. mája 2015 (utorok).*
+*Námietky voči priebehu a výsledkom volieb alebo zneniu zápisnice sa v súlade s čl. 25 ods. 1 Zásad volieb do Akademického senátu FMFI UK podávajú písomnou formou v elektronickej podobe prostredníctvom fakultnej elektronickej pošty predsedovi Mandátovej komisie AS FMFI UK [as.mandatova@fmph.uniba.sk](mailto:as.mandatova@fmph.uniba.sk)  do siedmich kalendárnych dní od zverejnenia zápisnice na webovom sídle fakulty, t.j. do 26. októbra 2015 (pondelok).*
 
 ## Dni a čas konania volieb a volebné miesto
 
