@@ -4,7 +4,20 @@ title: Doplňujúce voľby do ŠKASu
 tags: novinky
 ---
 
-V dňoch 19. a 20. októbra 2015 sa uskutočnia doplňujúce voľby do ŠKAS-u na funkčné obdobie do 31. mája 2016. Volia sa traja študentskí senátori. Návrhy kandidátov bolo možné podávať do 12. októbra 2015 (pondelok), 12.00 hod.
+V dňoch 19. a 20. októbra 2015 sa uskutočnili doplňujúce voľby do ŠKAS-u na funkčné obdobie do 31. mája 2016. Volili sa traja študentskí senátori. Návrhy kandidátov bolo možné podávať do 12. októbra 2015 (pondelok), 12.00 hod.
+
+## Výsledky volieb
+
+Za členov študentskej komory Akademického senátu FMFI UK na funkčné obdobie do 31. mája 2016 boli zvolení:
+
+1. Estilla Alföldiová
+2. Askar Gafurov
+
+V doplňujúcich voľbách na tri uprázdnené mandáty kandidovali len dvaja kandidáti.
+
+[Zápisnica z volieb](https://drive.google.com/file/d/0BzpLRs_UPeZ4Z0JCNG5IV2lJUDg/view?usp=sharing)
+
+*Námietky voči priebehu a výsledkom volieb alebo zneniu zápisnice sa v súlade s čl. 25 ods. 1 Zásad volieb do Akademického senátu FMFI UK podávajú písomnou formou v elektronickej podobe prostredníctvom fakultnej elektronickej pošty predsedovi Mandátovej komisie AS FMFI UK [as.mandatova@fmph.uniba.sk](mailto:as.mandatova@fmph.uniba.sk)  do siedmich kalendárnych dní od zverejnenia zápisnice na webovom sídle fakulty, t.j. do 19. mája 2015 (utorok).*
 
 ## Dni a čas konania volieb a volebné miesto
 
