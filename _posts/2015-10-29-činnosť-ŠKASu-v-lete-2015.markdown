@@ -36,4 +36,4 @@ Zaktualizovali sme obsah Matfyzáckeho sprievodcu z minulého roka a pripravili 
  
 ##4. Nápis FMFI
 
-Odplevelili sme levandulový nápis FMFI pred matematickým vchodom.
+Odplevelili sme levanduľový nápis FMFI pred matematickým vchodom.
