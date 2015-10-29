@@ -5,12 +5,12 @@ tags: novinky
 ---
 Prehľad činnosti Študentskej komory Akademického senátu FMFI UK v období mesiacov júl a august 2015.
 
-Milí študenti,
+Milí študenti,<br/>
 z ankety vyvstala pripomienka, ktorá hovorila o netransparentnosti činnosti ŠKASu.
 Študenti, pokiaľ sa nás priamo nespýtali, často nevedeli, čomu sa venujeme.
 Už dávnejšie sme chceli našu činnosť zverejňovať, ale akosi si na to nikto nenašiel čas.
 Pripomienky z ankety v tomto smere teda poslúžili ako nakopnutie ŠKASákov na spisovanie a zverejňovanie ich činnosti.
-Zhrniem teda najpodstatnejšie body, ktorým sme sa venovali cez **leto 2015**:
+Zhrnieme teda najpodstatnejšie body, ktorým sme sa venovali cez **leto 2015**:
 
 ##1. Zatopená klubovňa
 
@@ -26,7 +26,7 @@ pranie tulivakov, spätné nasypávanie výplne tulivakov, sušenie. Na tepovani
 ##2. Skriptáreň
 
 Pred knižnicu sme nainštalovali poličku, tzv. Skriptáreň. Po absolvovaní rôznych predmetov vám isto zostali rôzne materiály,
-ktoré ste si vytlačili z internetu a po zložení skúšky, či štátnic vám v izbe iba zavadzajú. Skriptáreň je miesto, kam môžete odložiť pre vás už 
+ktoré ste si vytlačili z internetu a po zložení skúšky či štátnic vám v izbe iba zavadzajú. Skriptáreň je miesto, kam môžete odložiť pre vás už 
 nepotrebné “skriptá”, ktoré si môže vziať a zúžitkovať iný študent. Zatiaľ sa nám však buď nepodarilo osloviť študentov s prebytočnými skriptami, 
 alebo je projekt veľmi úspešný, keďže sa v skriptárni v súčasnosti žiadne materiály nenachádzajú.
  
