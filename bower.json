@@ -1,6 +1,6 @@
 {
   "name": "SKAS webstranka",
   "dependencies": {
-    "foundation": "zurb/bower-foundation"
+    "foundation": "zurb/bower-foundation#5.2.1"
   }
 }
