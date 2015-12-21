@@ -1,4 +1,4 @@
-SKAS Webstranka
+ŠKAS Webstránka
 ==========
 
 Oficiálna webová stránka ŠKAS FMFI UK.
@@ -25,3 +25,10 @@ Oficiálna webová stránka ŠKAS FMFI UK.
 
 2. Spusti `jekyll build` na vygenerovanie statických HTML stránok.
 3. Nasmeruj web server na `_site` adresár.
+
+## Licencia
+
+Zdrojové kódy: MIT License
+
+Obsah: [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
